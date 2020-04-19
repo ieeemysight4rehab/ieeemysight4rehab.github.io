@@ -1,9 +1,9 @@
 language: node_js
 node_js:
-  - '10.15.2'
+  - 'lts/*'
 before_script:
   - npm install -g @vue/cli@latest
-  - npm ci
+  - npm install
 script:
   - npm run build
 deploy:
