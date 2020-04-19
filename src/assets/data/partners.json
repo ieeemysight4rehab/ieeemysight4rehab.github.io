@@ -1,0 +1,27 @@
+[
+    {
+        "name":"IEEE",
+        "link":"https://www.ieee.org/",
+        "img":"ieee.png"
+    },
+    {
+        "name":"EPICS in IEEE",
+        "link":"https://epics.ieee.org/",
+        "img":"epicsinieee.png"
+    },
+    {
+        "name":"IEEE EMBS",
+        "link":"https://www.embs.org/",
+        "img":"ieeeembs.png"
+    },
+    {
+        "name":"IEEE EMBS Malaysia Chapter",
+        "link":"https://www.embs.my/",
+        "img":"myembs.png"
+    },
+    {
+        "name":"Universiti Tunku Abdul Rahman (UTAR)",
+        "link":"https://www.utar.edu.my/",
+        "img":"utar.png"
+    }
+]

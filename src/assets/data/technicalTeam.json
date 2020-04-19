@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Jerry Chong",
+        "designation":"Team Lead",
+        "twitter":"https://www.twitter.com/jerrychong25",
+        "linkedin":"https://www.linkedin.com/in/jerry-chong/",
+        "github":"https://www.github.com/jerrychong25",
+        "profileImage":"",
+        "website":"https://jerrychong25.github.io/"
+    },
+    {
+        "name":"Heng Yeh Tat",
+        "designation":"Electronic Engineer",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/yehtat/",
+        "github":"",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Ng Peng Yee",
+        "designation":"Electronic Engineer",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/pengyee-ng/",
+        "github":"",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Marshall Loi Kuan Guan",
+        "designation":"Electronic Engineer",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/yehtat/",
+        "github":"",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Lee Tiong King",
+        "designation":"Software Engineer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"",
+        "website":""
+    }
+]
