@@ -3,6 +3,7 @@ node_js:
   - 'lts/*'
 before_script:
   - npm install -g @vue/cli
+  - npm install --save @/config/key # Fixed pipeline dependencies failed issue
   - npm install
 script:
   - npm run build
