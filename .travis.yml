@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - 'lts/*'
 before_script:
-  - npm install -g @vue/cli@latest
+  - npm install -g @vue/cli
   - npm install
 script:
   - npm run build
