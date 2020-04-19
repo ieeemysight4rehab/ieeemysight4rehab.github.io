@@ -1,0 +1,23 @@
+{
+    "ChapterName":"IEEE MySIGHT4Rehab",
+    "ChapterShortDescription": "IEEE MySIGHT4Rehab is an initiative to build Low-Cost Upper Extremities Rehabilitation System with Interactive Feedback for Children with Movement Disorders.",
+    "ChapterLongDescription":"The project is backed by the IEEE-EMBS Malaysia Chapter, IEEE Engineering Projects in Community Service (EPICS in IEEE), and most importantly volunteers from both IEEE communities alongside with volunteers with same interest.",
+    "ChapterGoogleSitesLink":"https://sites.google.com/site/mysight4rehabepics/",
+    "ChapterEmail":"chongyz@utar.edu.my",
+    "website":"https://gdgjalandhar.com",
+    "ChapterHashTags":["MySIGHT4Rehab","IEEE", "UTAR"],
+    "socialLinks":[
+        {
+            "name" : "Facebook",
+            "link" : "https://www.facebook.com/groups/epicshigh/",
+            "icon" : "fab fa-facebook"
+        },
+        {
+            
+            "name" : "Google Sites",
+            "link" : "https://sites.google.com/site/mysight4rehabepics/",
+            "icon" : "fab fa-google-plus"
+        }
+    ],
+    "aboutIEEEMySIGHT4Rehab":"Representatives from the IEEE Malaysia Section supported humanitarian efforts by designing and developing a cost-effective upper extremities rehabilitation system which includes an interactive element and other smart features for children with movement disorders such as Cerebral Palsy and Spasticity. The smart features of the system incorporate a real-time display of the physical parameters to be observed in the rehabilitation of these children, as proposed by therapists, including cranking speed and force exerted. This real-time display is then supplemented with animation in order to encourage continued movement of the limbs."
+}
