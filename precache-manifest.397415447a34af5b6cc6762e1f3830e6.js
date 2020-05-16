@@ -88,12 +88,12 @@ self.__precacheManifest = [
     "url": "/fonts/MaterialIcons-Regular.570eb838.woff2"
   },
   {
-    "revision": "012cf6a10129e2275d79d6adac7f3b02",
-    "url": "/fonts/MaterialIcons-Regular.012cf6a1.woff"
-  },
-  {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
     "url": "/fonts/MaterialIcons-Regular.a37b0c01.ttf"
+  },
+  {
+    "revision": "012cf6a10129e2275d79d6adac7f3b02",
+    "url": "/fonts/MaterialIcons-Regular.012cf6a1.woff"
   },
   {
     "revision": "14ed07e698c69df6da8744861c0ef7cd",
@@ -204,7 +204,7 @@ self.__precacheManifest = [
     "url": "/img/firebase.1c973c35.svg"
   },
   {
-    "revision": "8462c26641e8349e3dc7212be26453b7",
+    "revision": "7c3ca883703b8900da6abc997c689e97",
     "url": "/index.html"
   },
   {
