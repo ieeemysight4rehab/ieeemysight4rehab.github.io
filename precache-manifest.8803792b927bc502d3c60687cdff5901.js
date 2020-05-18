@@ -204,43 +204,43 @@ self.__precacheManifest = [
     "url": "/img/firebase.1c973c35.svg"
   },
   {
-    "revision": "9f2ffe5631738723f003c4f20a6c6f3f",
+    "revision": "4cdd6c4c12c81eef57e2b931bd528277",
     "url": "/index.html"
   },
   {
-    "revision": "20dfbaebf93bc1ba2ca70b276524f7df",
-    "url": "/android-chrome-192x192.png"
+    "revision": "ee8d95eae749d82cae7ba75d79a97def",
+    "url": "/img/fav/android-chrome-192x192.png"
   },
   {
     "revision": "f1cfaec8f8f21c2ed53e94b77a4b74c9",
-    "url": "/android-chrome-512x512.png"
+    "url": "/img/fav/android-chrome-512x512.png"
   },
   {
-    "revision": "8347a4a51be9d97de1c84ff00a082caa",
-    "url": "/apple-touch-icon.png"
+    "revision": "0817d69c5198a01f2555961c2bb2e48f",
+    "url": "/img/fav/apple-touch-icon.png"
   },
   {
-    "revision": "351544851091a6f2b1df5148fb3796e6",
-    "url": "/favicon-16x16.png"
+    "revision": "061f63e8fbf1d2fe82cd8bf4d46f0a0c",
+    "url": "/img/fav/browserconfig.xml"
   },
   {
-    "revision": "524ab867583191f4e8d8915fa161400a",
-    "url": "/favicon-32x32.png"
+    "revision": "6b60e395572c2b5bfec12bae48706965",
+    "url": "/img/fav/favicon-16x16.png"
   },
   {
-    "revision": "351544851091a6f2b1df5148fb3796e6",
-    "url": "/img/fav/favicon-16.png"
+    "revision": "7043f055659bb85639518fda2ce562d3",
+    "url": "/img/fav/favicon-32x32.png"
   },
   {
-    "revision": "524ab867583191f4e8d8915fa161400a",
-    "url": "/img/fav/favicon-32.png"
+    "revision": "b8d808a40abb8a1191d06989b5aaf9cd",
+    "url": "/img/fav/mstile-150x150.png"
+  },
+  {
+    "revision": "2b4fdda06b8fb6b36edb26c83f49fcf7",
+    "url": "/img/fav/safari-pinned-tab.svg"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
-  },
-  {
-    "revision": "053100cb84a50d2ae7f5492f7dd7f25e",
-    "url": "/site.webmanifest"
   }
 ];
