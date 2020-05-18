@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "279047fd79fa902c33d2",
+    "revision": "fc455cfb68560ef361b2",
     "url": "/css/app.f4e27866.css"
   },
   {
-    "revision": "279047fd79fa902c33d2",
-    "url": "/js/app.3aad966c.js"
+    "revision": "fc455cfb68560ef361b2",
+    "url": "/js/app.b9054d07.js"
   },
   {
     "revision": "a1d63896111e651bbd5a",
@@ -204,7 +204,7 @@ self.__precacheManifest = [
     "url": "/img/firebase.1c973c35.svg"
   },
   {
-    "revision": "ae2eff96b04c4f57f78039f59bb5f968",
+    "revision": "3b1eb1d19752d2ebd080fc232ae0abef",
     "url": "/index.html"
   },
   {
@@ -218,6 +218,10 @@ self.__precacheManifest = [
   {
     "revision": "7043f055659bb85639518fda2ce562d3",
     "url": "/img/fav/favicon-32.png"
+  },
+  {
+    "revision": "b8d808a40abb8a1191d06989b5aaf9cd",
+    "url": "/mstile-150x150.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
