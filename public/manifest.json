@@ -1,14 +1,14 @@
 {
-  "name": "IEEE MySIGHT4Rehab EPICS",
-  "short_name": "IEEE MySIGHT4Rehab EPICS",
+  "name": "IEEE MySIGHT4Rehab EPICS | Universiti Tunku Abdul Rahman (UTAR)",
+  "short_name": "IEEE MySIGHT4Rehab | UTAR",
   "icons": [
     {
-      "src": "./img/icons/android-chrome-192x192.png",
+      "src": "./img/fav/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./img/icons/android-chrome-512x512.png",
+      "src": "./img/fav/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
