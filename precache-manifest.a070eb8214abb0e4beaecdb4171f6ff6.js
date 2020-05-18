@@ -132,10 +132,6 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-LightItalic.13efe6cb.woff"
   },
   {
-    "revision": "73f0a88bbca1bec19fb1303c689d04c6",
-    "url": "/fonts/Roboto-Regular.73f0a88b.woff2"
-  },
-  {
     "revision": "35b07eb2f8711ae08d1f58c043880930",
     "url": "/fonts/Roboto-Regular.35b07eb2.woff"
   },
@@ -196,6 +192,10 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
+    "revision": "73f0a88bbca1bec19fb1303c689d04c6",
+    "url": "/fonts/Roboto-Regular.73f0a88b.woff2"
+  },
+  {
     "revision": "9f75886c99f7ad70d485d9e39895c62a",
     "url": "/img/ieeeembs.9f75886c.png"
   },
@@ -206,6 +206,10 @@ self.__precacheManifest = [
   {
     "revision": "3b1eb1d19752d2ebd080fc232ae0abef",
     "url": "/index.html"
+  },
+  {
+    "revision": "0817d69c5198a01f2555961c2bb2e48f",
+    "url": "/apple-touch-icon.png"
   },
   {
     "revision": "061f63e8fbf1d2fe82cd8bf4d46f0a0c",
