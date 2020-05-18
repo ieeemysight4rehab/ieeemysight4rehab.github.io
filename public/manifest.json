@@ -1,14 +1,14 @@
 {
-  "name": "IEEE MySIGHT4Rehab EPICS | Universiti Tunku Abdul Rahman (UTAR)",
-  "short_name": "IEEE MySIGHT4Rehab | UTAR",
+  "name": "MySIGHT4Rehab",
+  "short_name": "MySIGHT4Rehab",
   "icons": [
     {
-      "src": "./img/fav/android-chrome-192x192.png",
+      "src": "./img/icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./img/fav/android-chrome-512x512.png",
+      "src": "./img/icons/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -17,5 +17,5 @@
   "display": "standalone",
   "background_color": "#ffff",
   "theme_color": "#0277bd",
-  "description": "Aura is the website template that helps you to set GDG's Communities website with events, team and management in a few minutes."
+  "description": "IEEE MySIGHT4Rehab is an initiative to build Low-Cost Upper Extremities Rehabilitation System with Interactive Feedback for Children with Movement Disorders."
 }
