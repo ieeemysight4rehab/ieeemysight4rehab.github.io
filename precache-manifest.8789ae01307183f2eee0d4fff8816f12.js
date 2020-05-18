@@ -204,23 +204,43 @@ self.__precacheManifest = [
     "url": "/img/firebase.1c973c35.svg"
   },
   {
-    "revision": "736ccaa5dce73d5fbfce46324c45a9a9",
+    "revision": "9f2ffe5631738723f003c4f20a6c6f3f",
     "url": "/index.html"
   },
   {
-    "revision": "a9509ca258731e12d52dd223ad1ba4c8",
-    "url": "/img/fav/favicon-32 (1).png"
+    "revision": "20dfbaebf93bc1ba2ca70b276524f7df",
+    "url": "/android-chrome-192x192.png"
   },
   {
-    "revision": "a9509ca258731e12d52dd223ad1ba4c8",
+    "revision": "f1cfaec8f8f21c2ed53e94b77a4b74c9",
+    "url": "/android-chrome-512x512.png"
+  },
+  {
+    "revision": "8347a4a51be9d97de1c84ff00a082caa",
+    "url": "/apple-touch-icon.png"
+  },
+  {
+    "revision": "351544851091a6f2b1df5148fb3796e6",
+    "url": "/favicon-16x16.png"
+  },
+  {
+    "revision": "524ab867583191f4e8d8915fa161400a",
+    "url": "/favicon-32x32.png"
+  },
+  {
+    "revision": "351544851091a6f2b1df5148fb3796e6",
+    "url": "/img/fav/favicon-16.png"
+  },
+  {
+    "revision": "524ab867583191f4e8d8915fa161400a",
     "url": "/img/fav/favicon-32.png"
-  },
-  {
-    "revision": "8a50435f9af90132f255eb24018c68dc",
-    "url": "/img/fav/favicon-72.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "053100cb84a50d2ae7f5492f7dd7f25e",
+    "url": "/site.webmanifest"
   }
 ];
