@@ -1,6 +1,10 @@
 language: node_js
 node_js:
   - 'lts/*'
+addons:
+  sonarcloud:
+    organization: "jerrychong25"
+    token: $sonarcloud_token # encrypted value of your token
 install:
   - npm install -g @vue/cli
   - npm install -g codecov
@@ -17,6 +21,8 @@ script:
   - codecov
   # Code Climate
   - nyc --reporter=lcov npm run test
+  # SonarCloud
+  - sonar-scanner
 after_script:
   # Code Climate
   - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT
