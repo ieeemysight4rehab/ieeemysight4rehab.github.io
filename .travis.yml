@@ -3,7 +3,7 @@ node_js:
   - 'lts/*'
 addons:
   sonarcloud:
-    organization: "jerrychong25"
+    organization: "ieeemysight4rehab"
     token: $sonarcloud_token # encrypted value of your token
 install:
   - npm install -g @vue/cli
