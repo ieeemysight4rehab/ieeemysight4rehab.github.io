@@ -3,6 +3,7 @@
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ieeemysight4rehab.github.io/)
 [![GitHub release](https://img.shields.io/github/release/ieeemysight4rehab/ieeemysight4rehab.github.io.svg)](https://gitHub.com/ieeemysight4rehab/ieeemysight4rehab.github.io/releases/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ieeemysight4rehab/ieeemysight4rehab.github.io/graphs/commit-activity)
+[![Known Vulnerabilities](https://snyk.io/test/github/ieeemysight4rehab/ieeemysight4rehab.github.io/badge.svg)](https://snyk.io/test/github/ieeemysight4rehab/ieeemysight4rehab.github.io)
 [![w3c](https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fieeemysight4rehab.github.io%2F)](https://ieeemysight4rehab.github.io/)
 [![codecov](https://codecov.io/gh/ieeemysight4rehab/ieeemysight4rehab.github.io/branch/staging/graph/badge.svg)](https://codecov.io/gh/ieeemysight4rehab/ieeemysight4rehab.github.io)
 [![Maintainability](https://api.codeclimate.com/v1/badges/cc92559a43fc1cf1d9a8/maintainability)](https://codeclimate.com/github/ieeemysight4rehab/ieeemysight4rehab.github.io/maintainability)
