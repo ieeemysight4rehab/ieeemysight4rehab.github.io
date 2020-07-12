@@ -20,7 +20,14 @@
             </span>
           </p>
             
-            <p class="google-font mb-0" style="font-size:120%">Questions? Please contact {{ChapterDetails.ChapterEmail}}.</p>
+          <p class="google-font mb-0" style="font-size:120%">Questions? Please contact {{ChapterDetails.ChapterEmail}}.</p>
+          <br/>
+          <p class="google-font mb-0" style="font-size:120%"><b>Universiti Tunku Abdul Rahman (UTAR)</b></p>
+          <p class="google-font mb-0" style="font-size:120%">Sungai Long Campus</p> 
+          <p class="google-font mb-0" style="font-size:120%">Jalan Sungai Long,</p>
+          <p class="google-font mb-0" style="font-size:120%">Bandar Sungai Long, Cheras,</p>
+          <p class="google-font mb-0" style="font-size:120%">43000 Kajang, Selangor,</p>
+          <p class="google-font mb-0" style="font-size:120%">Malaysia</p>
         </v-flex>
         <v-flex xs12 md2 lg2 class="pa-2">
           <v-img
