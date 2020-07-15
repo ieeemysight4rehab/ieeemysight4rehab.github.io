@@ -20,14 +20,16 @@
             </span>
           </p>
             
-          <p class="google-font mb-0" style="font-size:120%">Questions? Please contact {{ChapterDetails.ChapterEmail}}.</p>
+          <p class="google-font mb-0" style="font-size:120%">Questions? Please contact Mr. Chong Yu Zheng ({{ChapterDetails.ChapterEmail}}).</p>
+          <br/>
+          <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=universiti%20tunku%20abdul%20rahman%20sungai%20long&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.embedgooglemap.net">google maps iframe</a></div></div>
           <br/>
           <p class="google-font mb-0" style="font-size:120%"><b>Universiti Tunku Abdul Rahman (UTAR)</b></p>
-          <p class="google-font mb-0" style="font-size:120%">Sungai Long Campus</p> 
+          <p class="google-font mb-0" style="font-size:120%">Sungai Long Campus,</p> 
           <p class="google-font mb-0" style="font-size:120%">Jalan Sungai Long,</p>
           <p class="google-font mb-0" style="font-size:120%">Bandar Sungai Long, Cheras,</p>
           <p class="google-font mb-0" style="font-size:120%">43000 Kajang, Selangor,</p>
-          <p class="google-font mb-0" style="font-size:120%">Malaysia</p>
+          <p class="google-font mb-0" style="font-size:120%">Malaysia.</p>
         </v-flex>
         <v-flex xs12 md2 lg2 class="pa-2">
           <v-img
@@ -65,3 +67,18 @@ import ChapterDetails from '@/assets/data/chapterDetails.json'
     },
   }
 </script>
+
+<style>
+.mapouter{
+    position:relative;
+    text-align:right;
+    height:500px;
+    width:600px;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:500px;
+    width:600px;
+}
+</style>
