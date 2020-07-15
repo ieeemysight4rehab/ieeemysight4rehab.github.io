@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ca4a6483e6d327e94217",
+    "revision": "53c2976b0cec8615ea22",
     "url": "/css/app.f4e27866.css"
   },
   {
-    "revision": "ca4a6483e6d327e94217",
-    "url": "/js/app.0409061f.js"
+    "revision": "53c2976b0cec8615ea22",
+    "url": "/js/app.1d188a17.js"
   },
   {
     "revision": "51cf01cd6018cc6ea69d",
@@ -88,12 +88,12 @@ self.__precacheManifest = [
     "url": "/img/bg.7ef974da.svg"
   },
   {
-    "revision": "e79bfd88537def476913f3ed52f4f4b3",
-    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
-  },
-  {
     "revision": "570eb83859dc23dd0eec423a49e147fe",
     "url": "/fonts/MaterialIcons-Regular.570eb838.woff2"
+  },
+  {
+    "revision": "e79bfd88537def476913f3ed52f4f4b3",
+    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
   },
   {
     "revision": "012cf6a10129e2275d79d6adac7f3b02",
@@ -176,6 +176,10 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-Bold.b52fac2b.woff2"
   },
   {
+    "revision": "50d75e48e0a3ddab1dd15d6bfb9d3700",
+    "url": "/fonts/Roboto-Bold.50d75e48.woff"
+  },
+  {
     "revision": "94008e69aaf05da75c0bbf8f8bb0db41",
     "url": "/fonts/Roboto-BoldItalic.94008e69.woff2"
   },
@@ -200,10 +204,6 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
-    "revision": "50d75e48e0a3ddab1dd15d6bfb9d3700",
-    "url": "/fonts/Roboto-Bold.50d75e48.woff"
-  },
-  {
     "revision": "9f75886c99f7ad70d485d9e39895c62a",
     "url": "/img/ieeeembs.9f75886c.png"
   },
@@ -212,7 +212,7 @@ self.__precacheManifest = [
     "url": "/img/firebase.1c973c35.svg"
   },
   {
-    "revision": "3428c488ad13afdaaf482bfbc08c9b65",
+    "revision": "6b1fac07981ce1bcc589b5880d21c3b2",
     "url": "/index.html"
   },
   {
