@@ -50,6 +50,11 @@ export default new Router({
       path: '/terms_services',
       name: 'terms_services',
       component: () => import('./views/Terms&Services.vue')
+    },
+    {
+      path: '/privacy_policy',
+      name: 'privacy_policy',
+      component: () => import('./views/PrivacyPolicy.vue')
     }
   ]
 })
