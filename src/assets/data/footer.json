@@ -27,6 +27,10 @@
         {
             "LinkName" : "Terms & Services",
             "Link" : "/terms_services"
+        },
+        {
+            "LinkName" : "Template By GDG Jalandhar",
+            "Link" : "https://gdgjalandhar.com/"
         }
     ]
 }
