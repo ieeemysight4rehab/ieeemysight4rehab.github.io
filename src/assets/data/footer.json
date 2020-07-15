@@ -21,12 +21,20 @@
         {
             "LinkName":"IEEE EMBS Malaysia Chapter",
             "Link":"https://www.embs.my/"
+        },
+        {
+            "LinkName":"Universiti Tunku Abdul Rahman (UTAR)",
+            "Link":"https://www.utar.edu.my/"
         }
     ],
     "FooterEndSession":[
         {
             "LinkName" : "Terms & Services",
             "Link" : "/terms_services"
+        },
+        {
+            "LinkName" : "Privacy Policy",
+            "Link" : "/privacy_policy"
         },
         {
             "LinkName" : "Template By GDG Jalandhar",
