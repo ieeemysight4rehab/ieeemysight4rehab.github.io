@@ -71,7 +71,7 @@
 
                             <v-list-tile-content>
                                 <v-list-tile-title class="google-font" style="color:#424242">{{ item.name }}</v-list-tile-title>
-                                <v-list-tile-sub-title class="google-font">{{ item.local_date | dateFilter}} | {{ item.local_time }}</v-list-tile-sub-title>
+                                <v-list-tile-sub-title class="google-font">{{ item.local_date | dateFilter }}</v-list-tile-sub-title>
                             </v-list-tile-content>
 
                             <v-list-tile-action>
@@ -94,44 +94,41 @@
             <v-flex xs12 v-if="notFoundPastEventFlag==true">
                 <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> Past Events Not Found!</p>
             </v-flex>
-
-            
         </v-layout>
 
     </v-container>
 </template>
 
 <script>
-import ChapterDetails from '@/assets/data/chapterDetails.json'
 export default {
     data() {
         return {
-            chapterDetails: ChapterDetails,
-            eventsData:[],
-            showLoader: true,
-            showData:false,
-            errorMsg:'',
-            errorAlert:false,
-            notFoundPastEventFlag:false
+            eventsData:[
+                {
+                    name: "UTAR Engineering and Science Fiesta",
+                    local_date: "2017-02-20",
+                    local_time: "10:00 AM",
+                    link: "https://ieeesightblog.wordpress.com/2017/03/29/volunteers-represent-ieee-at-utar-engineering-and-science-fiesta/"
+                },
+                {
+                    name: "Club Interaction Day",
+                    local_date: "2018-02-03",
+                    local_time: "10:00 AM",
+                    link: "https://sight.ieee.org/ieee-mysight4rehab-ieee-embs-utar-student-club-interaction-day/"
+                },
+                {
+                    name: "Humanitarian Engagement Activity",
+                    local_date: "2019-03-10",
+                    local_time: "10:00 AM",
+                    link: "https://sight.ieee.org/malaysia-sight-group-collaborates-humanitarian-engagement-activity/"
+                },
+            ],
+            showLoader: false,
+            showData: true,
+            errorMsg: '',
+            errorAlert: false,
+            notFoundPastEventFlag: false
         }
-    },
-    created(){
-        fetch('https://cors-anywhere.herokuapp.com/https://api.meetup.com/'+'/events?desc=true&photo-host=public&page=8&status=past&sign=true').then(data=>data.json()).then(res=>{
-            if(res.length>0){
-                this.showLoader = false
-                this.showData = true
-                this.eventsData = res
-            }else{
-                this.notFoundPastEventFlag = true
-                this.showLoader = false
-            }
-            
-        }).catch(e=>{
-            this.showLoader = false
-            this.errorMsg = 'Issue found with '+e
-            this.errorAlert = true
-            this.notFoundPastEventFlag = true
-        })
     },
     methods:{
         getCharString(data){
@@ -151,7 +148,7 @@ export default {
 
         dateFilter: (value)=>{
             const date = new Date(value)
-            return date.toLocaleString(['en-US'], {month: 'short', day: '2-digit', year: 'numeric'})
+            return date.toLocaleString(['en-MY'], {month: 'short', day: '2-digit', year: 'numeric'})
         }
     }
 }
