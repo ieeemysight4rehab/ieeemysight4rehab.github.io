@@ -51,7 +51,7 @@
               <v-btn
                   v-for="(item,i) in FooterData.FooterEndSession" 
                   :key="i"
-                  :href="item.Link" target="_blank" 
+                  :href="item.Link"
                   class="ml-0 google-font hidden-sm-and-down"
                   style="text-transform: capitalize;font-size:110%" 
                   flat
