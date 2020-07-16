@@ -90,11 +90,6 @@
           </v-list>
         </v-slide-y-reverse-transition>
       </v-flex>
-      <v-flex xs12 v-if="notFoundEventFlag==true" class="text-xs-center">
-        <p class="google-font px-2" style="font-size:140%">
-          <v-icon>highlight_off</v-icon>Events Not Found!
-        </p>
-      </v-flex>
     </v-layout>
   </v-container>
 </template>
