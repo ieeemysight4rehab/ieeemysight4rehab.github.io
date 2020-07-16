@@ -28,9 +28,13 @@
       </v-layout>
     </v-container>
 
-   
-
-
+    <v-container fluid >
+      <v-layout wrap align-center justify-center row fill-height>
+        <v-flex xs12 md10 class="">
+          <supportTeam/>
+        </v-flex>
+      </v-layout>
+    </v-container>
   </v-content>
   
 </template>
@@ -39,10 +43,12 @@
 import TeamDetails from '@/assets/data/chapterDetails.json'
 import coreTeam from '@/components/team/coreTeam'
 import technicalTeam from '@/components/team/technicalTeam'
+import supportTeam from '@/components/team/supportTeam'
   export default {
     components: {
       coreTeam,
-      technicalTeam
+      technicalTeam,
+      supportTeam
     },
     data() {
       return {
