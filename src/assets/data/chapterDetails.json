@@ -12,11 +12,15 @@
             "link" : "https://www.facebook.com/groups/epicshigh/",
             "icon" : "fab fa-facebook"
         },
-        {
-            
+        {   
             "name" : "Google Sites",
             "link" : "https://sites.google.com/site/mysight4rehabepics/",
             "icon" : "fab fa-google-plus"
+        },
+        {
+            "name" : "GitHub",
+            "link" : "https://github.com/ieeemysight4rehab",
+            "icon" : "fab fa-github"
         }
     ],
     "aboutIEEEMySIGHT4Rehab":"Representatives from the IEEE Malaysia Section supported humanitarian efforts by designing and developing a cost-effective upper extremities rehabilitation system which includes an interactive element and other smart features for children with movement disorders such as Cerebral Palsy and Spasticity. The smart features of the system incorporate a real-time display of the physical parameters to be observed in the rehabilitation of these children, as proposed by therapists, including cranking speed and force exerted. This real-time display is then supplemented with animation in order to encourage continued movement of the limbs."
