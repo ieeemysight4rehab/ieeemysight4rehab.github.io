@@ -4,7 +4,7 @@
             <v-flex xs12 md12>
                 <p class="google-font mt-2 mb-0" style="font-size:170%;color:#37474F;" >Partners</p>
                 <p class="google-font mt-1 mb-0" style="font-size:120%">A very big thank you to all our partners for their continued partnership.</p>
-                <p class="google-font mt-0" style="font-size:120%">If you’re interested in contributing <b>{{chapterDetails.ChapterName}}</b>, kindly contact <a style="color:#1565C0;text-decoration: none;" :href="`mailto:${chapterDetails.ChapterEmail}`">{{chapterDetails.ChapterEmail}}</a> for more opportunities.</p>
+                <p class="google-font mt-0" style="font-size:120%">If you’re interested in contributing <b>{{chapterDetails.ChapterName}}</b>, kindly contact Mr. Chong Yu Zheng (<a style="color:#1565C0;text-decoration: none;" :href="`mailto:${chapterDetails.ChapterEmail}`">{{chapterDetails.ChapterEmail}}</a>) for more opportunities.</p>
             </v-flex>
 
             <v-flex xs12 md12 class="mt-2">
