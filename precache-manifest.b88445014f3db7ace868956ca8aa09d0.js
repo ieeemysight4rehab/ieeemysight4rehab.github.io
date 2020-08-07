@@ -92,10 +92,6 @@ self.__precacheManifest = [
     "url": "/img/bg.7ef974da.svg"
   },
   {
-    "revision": "e79bfd88537def476913f3ed52f4f4b3",
-    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
-  },
-  {
     "revision": "570eb83859dc23dd0eec423a49e147fe",
     "url": "/fonts/MaterialIcons-Regular.570eb838.woff2"
   },
@@ -106,6 +102,10 @@ self.__precacheManifest = [
   {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
     "url": "/fonts/MaterialIcons-Regular.a37b0c01.ttf"
+  },
+  {
+    "revision": "e79bfd88537def476913f3ed52f4f4b3",
+    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
   },
   {
     "revision": "14ed07e698c69df6da8744861c0ef7cd",
