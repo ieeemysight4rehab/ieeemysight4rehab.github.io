@@ -29,14 +29,6 @@
     ],
     "FooterEndSession":[
         {
-            "LinkName" : "Terms & Services",
-            "Link" : "/terms_services"
-        },
-        {
-            "LinkName" : "Privacy Policy",
-            "Link" : "/privacy_policy"
-        },
-        {
             "LinkName" : "Template By GDG Jalandhar",
             "Link" : "https://gdgjalandhar.com/"
         }
