@@ -29,7 +29,18 @@
         <span>About</span>
         <v-icon>toc</v-icon>
       </v-btn>
-      
+
+      <v-btn
+        color="#518FF5"
+        flat
+        value="about"
+        router
+        to="/about"
+      >
+        <span>Achievements</span>
+        <v-icon>toc</v-icon>
+      </v-btn>
+
       <v-btn
         color="#518FF5"
         flat
