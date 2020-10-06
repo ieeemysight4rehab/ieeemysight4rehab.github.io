@@ -22,6 +22,28 @@
       <v-btn
         color="#518FF5"
         flat
+        value="about"
+        router
+        to="/about"
+      >
+        <span>About</span>
+        <v-icon>toc</v-icon>
+      </v-btn>
+
+      <v-btn
+        color="#518FF5"
+        flat
+        value="about"
+        router
+        to="/about"
+      >
+        <span>Achievements</span>
+        <v-icon>toc</v-icon>
+      </v-btn>
+
+      <v-btn
+        color="#518FF5"
+        flat
         value="events"
         router
         to="/events"
@@ -39,17 +61,6 @@
       >
         <span>Team</span>
         <v-icon>group</v-icon>
-      </v-btn>
-
-      <v-btn
-        color="#518FF5"
-        flat
-        value="about"
-        router
-        to="/about"
-      >
-        <span>About</span>
-        <v-icon>toc</v-icon>
       </v-btn>
 
       <v-btn
