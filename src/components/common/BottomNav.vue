@@ -38,7 +38,7 @@
         to="/achievements"
       >
         <span>Achievements</span>
-        <v-icon>school</v-icon>
+        <v-icon>star</v-icon>
       </v-btn>
 
       <v-btn
