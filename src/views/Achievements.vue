@@ -19,6 +19,8 @@
               <br>
               <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://sight.ieee.org/" style="text-decoration:none">IEEE SIGHT Blog</a> for article <a href="https://sight.ieee.org/ieee-mysight4rehab-ieee-embs-utar-student-club-interaction-day/" style="text-decoration:none">"IEEE-MySIGHT4Rehab & IEEE-EMBS UTAR Student Club Interaction Day"</a> on 28th March 2018.</li>
               <br>
+              <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://sight.ieee.org/" style="text-decoration:none">IEEE SIGHT Blog</a> for article <a href="https://sight.ieee.org/training-sessions-hac-sight-malaysia/" style="text-decoration:none">"Training Sessions in HAC/SIGHT Malaysia"</a> on 31st May 2018.</li>
+              <br>
               <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://sight.ieee.org/" style="text-decoration:none">IEEE SIGHT Blog</a> for article <a href="https://sight.ieee.org/malaysia-sight-group-collaborates-humanitarian-engagement-activity/" style="text-decoration:none">"Malaysia SIGHT Group Collaborates In Humanitarian Engagement Activity"</a> on 22nd March 2019.</li>
             </ul>
         </v-flex>
