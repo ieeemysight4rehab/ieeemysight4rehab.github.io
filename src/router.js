@@ -32,11 +32,6 @@ export default new Router({
       component: () => import('./views/About.vue')
     },
     {
-      path: '/events',
-      name: 'events',
-      component: () => import('./views/Events.vue')
-    },
-    {
       path: '/achievements',
       name: 'achievements',
       component: () => import('./views/Achievements.vue')

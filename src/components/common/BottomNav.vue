@@ -44,17 +44,6 @@
       <v-btn
         color="#518FF5"
         flat
-        value="events"
-        router
-        to="/events"
-      >
-        <span>Events</span>
-        <v-icon>rounded_corner</v-icon>
-      </v-btn>
-
-      <v-btn
-        color="#518FF5"
-        flat
         value="team"
         router
         to="/team"
