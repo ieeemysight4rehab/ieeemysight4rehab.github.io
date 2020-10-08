@@ -33,12 +33,12 @@
       <v-btn
         color="#518FF5"
         flat
-        value="about"
+        value="achievements"
         router
-        to="/about"
+        to="/achievements"
       >
         <span>Achievements</span>
-        <v-icon>toc</v-icon>
+        <v-icon>star</v-icon>
       </v-btn>
 
       <v-btn
