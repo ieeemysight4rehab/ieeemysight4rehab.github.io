@@ -9,7 +9,7 @@ export default new Vuex.Store({
     items: [ 
       { text: 'Home', to: '/', icon:'home'},
       { text: 'About', to: '/about', icon: 'toc'},
-      { text: 'Achievements', to: '/achievements', icon: 'toc'},
+      { text: 'Achievements', to: '/achievements', icon: 'school'},
       { text: 'Events', to: '/events', icon: 'rounded_corner'},
       { text: 'Team', to: '/team', icon:'group'},
       { text: 'Contact', to: '/contact', icon:'person'}
