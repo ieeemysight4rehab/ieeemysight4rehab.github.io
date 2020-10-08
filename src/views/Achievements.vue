@@ -16,6 +16,10 @@
               <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://epics.ieee.org/" style="text-decoration:none">EPICS in IEEE</a> for article <a href="https://epics.ieee.org/development-hand-cycle-children-movement-disorders/" style="text-decoration:none">"Development of hand-cycle for children with movement disorders"</a> on 1st August 2016.</li>
               <br>
               <li class="google-font mb-0" style="font-size:120%">The team showcased their <a href="https://ieeesightblog.wordpress.com/2017/03/29/volunteers-represent-ieee-at-utar-engineering-and-science-fiesta/" style="text-decoration:none">historical work building devices to help rehabilitate children with movement disorders</a> at the  <a href="https://news.utar.edu.my/news/2017/Feb/25/01/01.html" style="text-decoration:none">UTAR Engineering and Science Fiesta 2017</a> that held from 20 to 23 February 2017, which was organised by the UTAR Engineering Society in collaboration with The Institution Of Engineers Malaysia (IEM), Institution of Engineering and Technology (IET), Institution of Chemical Engineers (IChemE), Institution of Mechanical Engineers (IMechE), Institution of Civil Engineers (ICE), Institute of Electrical and Electronics Engineers (IEEE), Institute of Materials, Malaysia (IMM), American Society of Heating, Refrigerating, and Air-Conditioning Engineers (ASHRAE) Student Chapters, as well as UTAR Robotics Society, UTAR Mathematics Society, UTAR Architecture Society and Actuarial Science Society.</li>
+              <br>
+              <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://sight.ieee.org/" style="text-decoration:none">IEEE SIGHT Blog</a> for article <a href="https://sight.ieee.org/ieee-mysight4rehab-ieee-embs-utar-student-club-interaction-day/" style="text-decoration:none">"IEEE-MySIGHT4Rehab & IEEE-EMBS UTAR Student Club Interaction Day"</a> on 28th March 2018.</li>
+              <br>
+
             </ul>
         </v-flex>
       </v-layout>
