@@ -46,25 +46,81 @@
                   :showThumbnails="true"
                   :items="[
                     {
+                      id: 'MTIC2016TeamAGroup1', 
+                      src: 'img/projects/events/event-2-4.jpg', 
+                      thumbnail: 'img/projects/events/event-2-4.jpg', 
+                      alt: 'Team A Group Photo', 
+                      caption: 'Team A Group Photo'
+                    },
+                    {
+                      id: 'MTIC2016TeamAGroup2', 
+                      src: 'img/projects/events/event-2-5.jpg', 
+                      thumbnail: 'img/projects/events/event-2-5.jpg', 
+                      alt: 'Team A Booth Presentation', 
+                      caption: 'Team A Booth Presentation'
+                    },
+                    {
+                      id: 'MTIC2016TeamAGroup3', 
+                      src: 'img/projects/events/event-2-2.jpg', 
+                      thumbnail: 'img/projects/events/event-2-2.jpg', 
+                      alt: 'Team A Award Ceremony', 
+                      caption: 'Team A Award Ceremony'
+                    },
+                    {
+                      id: 'MTIC2016TeamBGroup1', 
+                      src: 'img/projects/events/event-2-8.jpg', 
+                      thumbnail: 'img/projects/events/event-2-8.jpg', 
+                      alt: 'Team B Group Photo', 
+                      caption: 'Team B Group Photo'
+                    },
+                    {
+                      id: 'MTIC2016TeamBGroup2', 
+                      src: 'img/projects/events/event-2-9.jpg', 
+                      thumbnail: 'img/projects/events/event-2-9.jpg', 
+                      alt: 'Team B Booth Presentation', 
+                      caption: 'Team B Booth Presentation'
+                    },
+                    {
+                      id: 'MTIC2016TeamBGroup3', 
+                      src: 'img/projects/events/event-2-3.jpg', 
+                      thumbnail: 'img/projects/events/event-2-3.jpg', 
+                      alt: 'Team B Stage Presentation', 
+                      caption: 'Team B Stage Presentation'
+                    },
+                    {
+                      id: 'MTIC2016ParticipantsGroupPhoto', 
+                      src: 'img/projects/events/event-2-6.jpg', 
+                      thumbnail: 'img/projects/events/event-2-6.jpg', 
+                      alt: 'Participants Group Photo', 
+                      caption: 'Participants Group Photo'
+                    },
+                    {
                       id: 'MTIC2016TeamAPrototype', 
                       src: 'img/projects/prototype/prototype-9.png', 
                       thumbnail: 'img/projects/prototype/prototype-9.png', 
-                      alt: 'Malaysia Telemedicine Innovation Challenge 2016 Team A Prototype', 
-                      caption: 'Malaysia Telemedicine Innovation Challenge 2016 Team A Prototype'
+                      alt: 'Team A Prototype', 
+                      caption: 'Team A Prototype'
                     },
                     {
                       id: 'MTIC2016TeamADesign', 
                       src: 'img/projects/design/design-2.png', 
                       thumbnail: 'img/projects/design/design-2.png', 
-                      alt: 'Malaysia Telemedicine Innovation Challenge 2016 Team A Design', 
-                      caption: 'Malaysia Telemedicine Innovation Challenge 2016 Team A Design'
+                      alt: 'Team A Design', 
+                      caption: 'Team A Design'
                     },
                     {
                       id: 'MTIC2016TeamBPrototype', 
                       src: 'img/projects/prototype/prototype-10.png', 
                       thumbnail: 'img/projects/prototype/prototype-10.png', 
-                      alt: 'Malaysia Telemedicine Innovation Challenge 2016 Team B Prototype', 
-                      caption: 'Malaysia Telemedicine Innovation Challenge 2016 Team B Prototype'
+                      alt: 'Team B Prototype', 
+                      caption: 'Team B Prototype'
+                    },
+                    {
+                      id: 'MTIC2016TeamSharingSession', 
+                      src: 'img/projects/events/event-2-1.png', 
+                      thumbnail: 'img/projects/events/event-2-1.png', 
+                      alt: 'Internal Team Sharing Session in UTAR Sungai Long Campus', 
+                      caption: 'Internal Team Sharing Session in UTAR Sungai Long Campus'
                     }
                   ]
                 "/>
@@ -72,11 +128,150 @@
               <br>
               <li class="google-font mb-0" style="font-size:120%">The team showcased their <a href="https://ieeesightblog.wordpress.com/2017/03/29/volunteers-represent-ieee-at-utar-engineering-and-science-fiesta/" target=_blank style="text-decoration:none">historical work building devices to help rehabilitate children with movement disorders</a> at the  <a href="https://news.utar.edu.my/news/2017/Feb/25/01/01.html" target=_blank style="text-decoration:none">UTAR Engineering and Science Fiesta 2017</a> that held from 20 to 23 February 2017, which was organised by the UTAR Engineering Society in collaboration with The Institution Of Engineers Malaysia (IEM), Institution of Engineering and Technology (IET), Institution of Chemical Engineers (IChemE), Institution of Mechanical Engineers (IMechE), Institution of Civil Engineers (ICE), Institute of Electrical and Electronics Engineers (IEEE), Institute of Materials, Malaysia (IMM), American Society of Heating, Refrigerating, and Air-Conditioning Engineers (ASHRAE) Student Chapters, as well as UTAR Robotics Society, UTAR Mathematics Society, UTAR Architecture Society and Actuarial Science Society.</li>
               <br>
+              <div id="lingallery">
+                <lingallery 
+                  :iid.sync="currentId" 
+                  :width="600" 
+                  :height="500" 
+                  :responsive="true"
+                  :showThumbnails="true"
+                  :items="[
+                    {
+                      id: 'UTAREngineeringandScienceFiesta2017Event1', 
+                      src: 'img/projects/events/event-9-2.png', 
+                      thumbnail: 'img/projects/events/event-9-2.png', 
+                      alt: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase', 
+                      caption: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase'
+                    },
+                    {
+                      id: 'UTAREngineeringandScienceFiesta2017Event2', 
+                      src: 'img/projects/events/event-9-3.png', 
+                      thumbnail: 'img/projects/events/event-9-3.png', 
+                      alt: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase', 
+                      caption: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase'
+                    },
+                    {
+                      id: 'UTAREngineeringandScienceFiesta2017Event3', 
+                      src: 'img/projects/events/event-9-4.png', 
+                      thumbnail: 'img/projects/events/event-9-4.png', 
+                      alt: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase', 
+                      caption: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase'
+                    },
+                    {
+                      id: 'UTAREngineeringandScienceFiesta2017Event4', 
+                      src: 'img/projects/events/event-9-5.png', 
+                      thumbnail: 'img/projects/events/event-9-5.png', 
+                      alt: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase', 
+                      caption: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase'
+                    }
+                  ]
+                "/>
+              </div>
+              <br>
               <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://sight.ieee.org/" target=_blank style="text-decoration:none">IEEE SIGHT Blog</a> for article <a href="https://sight.ieee.org/ieee-mysight4rehab-ieee-embs-utar-student-club-interaction-day/" target=_blank style="text-decoration:none">"IEEE-MySIGHT4Rehab & IEEE-EMBS UTAR Student Club Interaction Day"</a> on 28th March 2018.</li>
+              <br>
+              <div id="lingallery">
+                <lingallery 
+                  :iid.sync="currentId" 
+                  :width="600" 
+                  :height="500" 
+                  :responsive="true"
+                  :showThumbnails="true"
+                  :items="[
+                    {
+                      id: 'IEEEMySIGHT4Rehab&IEEEEMBSStudentClubInteractionDayEvent1', 
+                      src: 'img/projects/events/event-10-1.png', 
+                      thumbnail: 'img/projects/events/event-10-1.png', 
+                      alt: 'IEEE MySIGHT4Rehab Group & IEEE EMBS Student Club Interaction Day', 
+                      caption: 'IEEE MySIGHT4Rehab Group & IEEE EMBS Student Club Interaction Day'
+                    },
+                    {
+                      id: 'IEEEMySIGHT4Rehab&IEEEEMBSStudentClubInteractionDayEvent2', 
+                      src: 'img/projects/events/event-10-2.png', 
+                      thumbnail: 'img/projects/events/event-10-2.png', 
+                      alt: 'IEEE MySIGHT4Rehab Group & IEEE EMBS Student Club Interaction Day', 
+                      caption: 'IEEE MySIGHT4Rehab Group & IEEE EMBS Student Club Interaction Day'
+                    },
+                  ]
+                "/>
+              </div>
               <br>
               <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://sight.ieee.org/" target=_blank style="text-decoration:none">IEEE SIGHT Blog</a> for article <a href="https://sight.ieee.org/training-sessions-hac-sight-malaysia/" target=_blank style="text-decoration:none">"Training Sessions in HAC/SIGHT Malaysia"</a> on 31st May 2018.</li>
               <br>
+              <div id="lingallery">
+                <lingallery 
+                  :iid.sync="currentId" 
+                  :width="600" 
+                  :height="500" 
+                  :responsive="true"
+                  :showThumbnails="true"
+                  :items="[
+                    {
+                      id: 'TrainingSessionsHAC/SIGHTMalaysiaEvent1', 
+                      src: 'img/projects/events/event-11-1.png', 
+                      thumbnail: 'img/projects/events/event-11-1.png', 
+                      alt: 'Group Photo With Participants in Universiti Tun Hussein Onn Malaysia (UTHM) on 6th May 2018', 
+                      caption: 'Group Photo With Participants in Universiti Tun Hussein Onn Malaysia (UTHM) on 6th May 2018'
+                    },
+                    {
+                      id: 'TrainingSessionsHAC/SIGHTMalaysiaEvent2', 
+                      src: 'img/projects/events/event-11-2.png', 
+                      thumbnail: 'img/projects/events/event-11-2.png', 
+                      alt: 'Group Photo With Student Branch Members in Universiti Teknikal Malaysia Melaka (UTEM) on 8th May 2018', 
+                      caption: 'Group Photo With Student Branch Members in Universiti Teknikal Malaysia Melaka (UTEM) on 8th May 2018'
+                    },
+                  ]
+                "/>
+              </div>
+              <br>
               <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://sight.ieee.org/" target=_blank style="text-decoration:none">IEEE SIGHT Blog</a> for article <a href="https://sight.ieee.org/malaysia-sight-group-collaborates-humanitarian-engagement-activity/" target=_blank style="text-decoration:none">"Malaysia SIGHT Group Collaborates In Humanitarian Engagement Activity"</a> on 22nd March 2019.</li>
+              <br>
+              <div id="lingallery">
+                <lingallery 
+                  :iid.sync="currentId" 
+                  :width="600" 
+                  :height="500" 
+                  :responsive="true"
+                  :showThumbnails="true"
+                  :items="[
+                    {
+                      id: 'SIGHTHumanitarianEngagementActivityEvent1', 
+                      src: 'img/projects/events/event-12-1.jpg', 
+                      thumbnail: 'img/projects/events/event-12-1.jpg', 
+                      alt: 'Group Photo With The Center Residents', 
+                      caption: 'Group Photo With The Center Residents'
+                    },
+                    {
+                      id: 'SIGHTHumanitarianEngagementActivityEvent2', 
+                      src: 'img/projects/events/event-12-2.jpg', 
+                      thumbnail: 'img/projects/events/event-12-2.jpg', 
+                      alt: 'Origami Session', 
+                      caption: 'Origami Session'
+                    },
+                    {
+                      id: 'SIGHTHumanitarianEngagementActivityEvent3', 
+                      src: 'img/projects/events/event-12-3.jpg', 
+                      thumbnail: 'img/projects/events/event-12-3.jpg', 
+                      alt: 'Science Demonstration', 
+                      caption: 'Science Demonstration'
+                    },
+                    {
+                      id: 'SIGHTHumanitarianEngagementActivityEvent4', 
+                      src: 'img/projects/events/event-12-4.png', 
+                      thumbnail: 'img/projects/events/event-12-4.png', 
+                      alt: 'Testing Gripping Force Assessment Device', 
+                      caption: 'Testing Gripping Force Assessment Device'
+                    },
+                    {
+                      id: 'SIGHTHumanitarianEngagementActivityEvent5', 
+                      src: 'img/projects/events/event-12-5.jpg', 
+                      thumbnail: 'img/projects/events/event-12-5.jpg', 
+                      alt: 'Electromagnetism Demonstration', 
+                      caption: 'Electromagnetism Demonstration'
+                    }
+                  ]
+                "/>
+              </div>
             </ul>
         </v-flex>
       </v-layout>
