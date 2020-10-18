@@ -48,10 +48,17 @@
            <v-toolbar flat color="white" class="pa-0 mx-0" style="padding:0 !important" >
               <v-toolbar-title class="google-font pl-0 ml-0 mr-3" style="font-size:200%">{{ChapterDetails.ChapterName}}</v-toolbar-title>
 
-              <v-btn
+              <!-- <v-btn
                   v-for="(item,i) in FooterData.FooterEndSession" 
                   :key="i"
                   :href="item.Link"
+                  class="ml-0 google-font hidden-sm-and-down"
+                  style="text-transform: capitalize;font-size:110%" 
+                  flat
+                > -->
+              <v-btn
+                  v-for="(item,i) in FooterData.FooterEndSession" 
+                  :key="i"
                   class="ml-0 google-font hidden-sm-and-down"
                   style="text-transform: capitalize;font-size:110%" 
                   flat
@@ -61,7 +68,6 @@
             </v-toolbar>
         </v-flex>
       </v-layout>
-
     </v-container>
   </v-footer>
 </template>
