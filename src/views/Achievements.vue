@@ -46,25 +46,81 @@
                   :showThumbnails="true"
                   :items="[
                     {
+                      id: 'MTIC2016TeamAGroup1', 
+                      src: 'img/projects/events/event-2-4.jpg', 
+                      thumbnail: 'img/projects/events/event-2-4.jpg', 
+                      alt: 'Team A Group Photo', 
+                      caption: 'Team A Group Photo'
+                    },
+                    {
+                      id: 'MTIC2016TeamAGroup2', 
+                      src: 'img/projects/events/event-2-5.jpg', 
+                      thumbnail: 'img/projects/events/event-2-5.jpg', 
+                      alt: 'Team A Booth Presentation', 
+                      caption: 'Team A Booth Presentation'
+                    },
+                    {
+                      id: 'MTIC2016TeamAGroup3', 
+                      src: 'img/projects/events/event-2-2.jpg', 
+                      thumbnail: 'img/projects/events/event-2-2.jpg', 
+                      alt: 'Team A Award Ceremony', 
+                      caption: 'Team A Award Ceremony'
+                    },
+                    {
+                      id: 'MTIC2016TeamBGroup1', 
+                      src: 'img/projects/events/event-2-8.jpg', 
+                      thumbnail: 'img/projects/events/event-2-8.jpg', 
+                      alt: 'Team B Group Photo', 
+                      caption: 'Team B Group Photo'
+                    },
+                    {
+                      id: 'MTIC2016TeamBGroup2', 
+                      src: 'img/projects/events/event-2-9.jpg', 
+                      thumbnail: 'img/projects/events/event-2-9.jpg', 
+                      alt: 'Team B Booth Presentation', 
+                      caption: 'Team B Booth Presentation'
+                    },
+                    {
+                      id: 'MTIC2016TeamBGroup3', 
+                      src: 'img/projects/events/event-2-3.jpg', 
+                      thumbnail: 'img/projects/events/event-2-3.jpg', 
+                      alt: 'Team B Stage Presentation', 
+                      caption: 'Team B Stage Presentation'
+                    },
+                    {
+                      id: 'MTIC2016ParticipantsGroupPhoto', 
+                      src: 'img/projects/events/event-2-6.jpg', 
+                      thumbnail: 'img/projects/events/event-2-6.jpg', 
+                      alt: 'Participants Group Photo', 
+                      caption: 'Participants Group Photo'
+                    },
+                    {
                       id: 'MTIC2016TeamAPrototype', 
                       src: 'img/projects/prototype/prototype-9.png', 
                       thumbnail: 'img/projects/prototype/prototype-9.png', 
-                      alt: 'Malaysia Telemedicine Innovation Challenge 2016 Team A Prototype', 
-                      caption: 'Malaysia Telemedicine Innovation Challenge 2016 Team A Prototype'
+                      alt: 'Team A Prototype', 
+                      caption: 'Team A Prototype'
                     },
                     {
                       id: 'MTIC2016TeamADesign', 
                       src: 'img/projects/design/design-2.png', 
                       thumbnail: 'img/projects/design/design-2.png', 
-                      alt: 'Malaysia Telemedicine Innovation Challenge 2016 Team A Design', 
-                      caption: 'Malaysia Telemedicine Innovation Challenge 2016 Team A Design'
+                      alt: 'Team A Design', 
+                      caption: 'Team A Design'
                     },
                     {
                       id: 'MTIC2016TeamBPrototype', 
                       src: 'img/projects/prototype/prototype-10.png', 
                       thumbnail: 'img/projects/prototype/prototype-10.png', 
-                      alt: 'Malaysia Telemedicine Innovation Challenge 2016 Team B Prototype', 
-                      caption: 'Malaysia Telemedicine Innovation Challenge 2016 Team B Prototype'
+                      alt: 'Team B Prototype', 
+                      caption: 'Team B Prototype'
+                    },
+                    {
+                      id: 'MTIC2016TeamSharingSession', 
+                      src: 'img/projects/events/event-2-1.png', 
+                      thumbnail: 'img/projects/events/event-2-1.png', 
+                      alt: 'Internal Team Sharing Session in UTAR Sungai Long Campus', 
+                      caption: 'Internal Team Sharing Session in UTAR Sungai Long Campus'
                     }
                   ]
                 "/>
