@@ -10,14 +10,6 @@
             <ul>
               <li class="google-font mb-0" style="font-size:120%">Project team first site visit to <a href="http://pibakismiri.gbs2u.com/" target=_blank style="text-decoration:none">Parent's Association Of The Special Children Miri (PIBAKIS) or Pemulihan Dalam Komuniti (PDK Miri)</a>, a Community-based Rehabilitation Centre located at Miri, Sarawak, in conjunction with <a href="https://ewh.ieee.org/sb/malaysia/curtinsarawak/" target=_blank style="text-decoration:none">IEEE Curtin Malaysia Student Branch</a> on 2012.</li>
               <br>
-              <!-- <div class="section">
-                  <div class="container">
-                    <div class="row justify-content-md-center">
-                      <div class="col-md-12 col-lg-10">
-                      </div>
-                    </div>
-                  </div>
-              </div> -->
               <div id="lingallery">
                 <lingallery 
                   :iid.sync="currentId" 
