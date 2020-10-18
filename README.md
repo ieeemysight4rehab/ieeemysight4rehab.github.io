@@ -15,9 +15,17 @@
 
 This is a website developed for IEEE MySIGHT4Rehab.
 
+## Demo
+
+Live Demo: [https://ieeemysight4rehab.github.io/](https://ieeemysight4rehab.github.io/)
+
 ## Deployment
 
-Hosted previously on [Byet Internet Services](http://mysight4rehab.byethost9.com/) and [Netlify](https://mysight4rehab.netlify.com/).
+Presently hosted on [GitHub Pages](https://pages.github.com/), previously hosted on [Byet Internet Services](https://byet.host/) and [Netlify](https://www.netlify.com/).
+
+Old Links: <br/>
+Byet Internet Services - https://mysight4rehab.byethost9.com/ <br/>
+Netlify - https://mysight4rehab.netlify.com/ <br/>
 
 ## Built With
 
