@@ -6,9 +6,11 @@
         <v-flex xs12 md10 class="my-0">
             <p class="google-font mb-0" style="font-size:200%;color:#616161">IEEE MySIGHT4Rehab's Achievements</p>
             <br>
-            <p class="google-font mb-0" style="font-size:120%">The team working hard together for past few years and have achieved significant progress.</p>
+            <p class="google-font mb-0" style="font-size:120%">The team working hard together since formation of the project group and have achieved significant progress till today.</p>
             <br>
             <ul>
+              <li class="google-font mb-0" style="font-size:120%">First team visit to <a href="https://www.facebook.com/pages/category/Nonprofit-Organization/PIBAKIS-%E7%BE%8E%E9%87%8C%E7%89%B9%E6%AE%8A%E5%85%92%E4%B8%AD%E5%BF%83-PDK-MIRI-947873861906298/" style="text-decoration:none">Parent's Association Of The Special Children Miri (PIBAKIS) or Pemulihan Dalam Komuniti (PDK Miri)</a>, a Community-based Rehabilitation Centre located at Miri, Sarawak, in conjunction with <a href="https://ewh.ieee.org/sb/malaysia/curtinsarawak/" style="text-decoration:none">IEEE Curtin Malaysia Student Branch</a> on 2012.</li>
+              <br>
               <li class="google-font mb-0" style="font-size:120%">Two (2) teams from <a href="https://www.utar.edu.my/" style="text-decoration:none">Universiti Tunku Abdul Rahman (UTAR)</a> are shortlisted as Top 20 Finalists in <a href="https://aiyehum.ieeer10.org/aiyehum-2016-shortlisted-projects/?fbclid=IwAR3ckB7hYP-FS6LBtuAMHLsz9hmB3V8eBAUvohvQfFwMa0G9btSLAPnJjco" style="text-decoration:none">All IEEE Young Engineers’ Humanitarian Challenge (AIYEHUM) 2016</a> for IEEE Region 10 Asia-Pacific region, being the only Malaysian team that shortlisted in AIYEHUM 2016. Each team have received grant of RM3,000 (USD500) from IEEE for prototype development and completion of the project.</li>
               <br>
               <li class="google-font mb-0" style="font-size:120%">Published a conference paper title <a href="https://ieeexplore.ieee.org/abstract/document/7843556" style="text-decoration:none">"Development of low cost upper and lower extremities rehabilitation system with interactive feedback for children with movement disorders"</a> in <a href="https://ieeexplore.ieee.org/xpl/conhome/7829191/proceeding" style="text-decoration:none">2016 IEEE EMBS Conference on Biomedical Engineering and Sciences (IECBES)</a> that held from 4th to 8th December 2016 at The Pullman Bangsar, Kuala Lumpur.</li>
