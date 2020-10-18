@@ -169,7 +169,7 @@
               </div>
               <br>
               <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://sight.ieee.org/" target=_blank style="text-decoration:none">IEEE SIGHT Blog</a> for article <a href="https://sight.ieee.org/ieee-mysight4rehab-ieee-embs-utar-student-club-interaction-day/" target=_blank style="text-decoration:none">"IEEE-MySIGHT4Rehab & IEEE-EMBS UTAR Student Club Interaction Day"</a> on 28th March 2018.</li>
-                            <br>
+              <br>
               <div id="lingallery">
                 <lingallery 
                   :iid.sync="currentId" 
@@ -197,6 +197,32 @@
               </div>
               <br>
               <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://sight.ieee.org/" target=_blank style="text-decoration:none">IEEE SIGHT Blog</a> for article <a href="https://sight.ieee.org/training-sessions-hac-sight-malaysia/" target=_blank style="text-decoration:none">"Training Sessions in HAC/SIGHT Malaysia"</a> on 31st May 2018.</li>
+              <br>
+              <div id="lingallery">
+                <lingallery 
+                  :iid.sync="currentId" 
+                  :width="600" 
+                  :height="500" 
+                  :responsive="true"
+                  :showThumbnails="true"
+                  :items="[
+                    {
+                      id: 'TrainingSessionsHAC/SIGHTMalaysiaEvent1', 
+                      src: 'img/projects/events/event-11-1.png', 
+                      thumbnail: 'img/projects/events/event-11-1.png', 
+                      alt: 'Group Photo With Participants in Universiti Tun Hussein Onn Malaysia (UTHM) on 6th May 2018', 
+                      caption: 'Group Photo With Participants in Universiti Tun Hussein Onn Malaysia (UTHM) on 6th May 2018'
+                    },
+                    {
+                      id: 'TrainingSessionsHAC/SIGHTMalaysiaEvent2', 
+                      src: 'img/projects/events/event-11-2.png', 
+                      thumbnail: 'img/projects/events/event-11-2.png', 
+                      alt: 'Group Photo With Student Branch Members in Universiti Teknikal Malaysia Melaka (UTEM) on 8th May 2018', 
+                      caption: 'Group Photo With Student Branch Members in Universiti Teknikal Malaysia Melaka (UTEM) on 8th May 2018'
+                    },
+                  ]
+                "/>
+              </div>
               <br>
               <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://sight.ieee.org/" target=_blank style="text-decoration:none">IEEE SIGHT Blog</a> for article <a href="https://sight.ieee.org/malaysia-sight-group-collaborates-humanitarian-engagement-activity/" target=_blank style="text-decoration:none">"Malaysia SIGHT Group Collaborates In Humanitarian Engagement Activity"</a> on 22nd March 2019.</li>
             </ul>
