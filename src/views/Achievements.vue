@@ -31,6 +31,32 @@
               <br>
               <li class="google-font mb-0" style="font-size:120%">Two (2) teams from <a href="https://www.utar.edu.my/" target=_blank style="text-decoration:none">Universiti Tunku Abdul Rahman (UTAR)</a> are shortlisted as Top 20 Finalists in <a href="https://aiyehum.ieeer10.org/aiyehum-2016-shortlisted-projects/?fbclid=IwAR3ckB7hYP-FS6LBtuAMHLsz9hmB3V8eBAUvohvQfFwMa0G9btSLAPnJjco" target=_blank style="text-decoration:none">All IEEE Young Engineers’ Humanitarian Challenge (AIYEHUM) 2016</a> for IEEE Region 10 Asia-Pacific region, being the only Malaysian team that shortlisted in AIYEHUM 2016. Each team have received grant of RM3,000 (USD500) from IEEE for prototype development and completion of the project.</li>
               <br>
+              <div id="lingallery">
+                <lingallery 
+                  :iid.sync="currentId" 
+                  :width="600" 
+                  :height="500" 
+                  :responsive="true"
+                  :showThumbnails="true"
+                  :items="[
+                    {
+                      id: 'AIYEHUM2016Result1', 
+                      src: 'img/projects/results/result-1-1.jpg', 
+                      thumbnail: 'img/projects/results/result-1-1.jpg', 
+                      alt: 'AIYEHUM 2016 Top 20 Finalists', 
+                      caption: 'AIYEHUM 2016 Top 20 Finalists'
+                    },
+                    {
+                      id: 'AIYEHUM2016Result2', 
+                      src: 'img/projects/results/result-1-2.png', 
+                      thumbnail: 'img/projects/results/result-1-2.png', 
+                      alt: 'Two UTAR teams are shortlisted as Top 20 Finalists', 
+                      caption: 'Two UTAR teams (2016A159 & 2016A202) are shortlisted as Top 20 Finalists'
+                    }
+                  ]
+                "/>
+              </div>
+              <br>
               <li class="google-font mb-0" style="font-size:120%">Published a conference paper title <a href="https://ieeexplore.ieee.org/abstract/document/7843556" target=_blank style="text-decoration:none">"Development of low cost upper and lower extremities rehabilitation system with interactive feedback for children with movement disorders"</a> in <a href="https://ieeexplore.ieee.org/xpl/conhome/7829191/proceeding" target=_blank style="text-decoration:none">2016 IEEE EMBS Conference on Biomedical Engineering and Sciences (IECBES)</a> that held from 4th to 8th December 2016 at The Pullman Bangsar, Kuala Lumpur.</li>
               <br>
               <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://epics.ieee.org/" target=_blank style="text-decoration:none">EPICS in IEEE</a> for article <a href="https://epics.ieee.org/development-hand-cycle-children-movement-disorders/" target=_blank style="text-decoration:none">"Development of hand-cycle for children with movement disorders"</a> on 1st August 2016.</li>
