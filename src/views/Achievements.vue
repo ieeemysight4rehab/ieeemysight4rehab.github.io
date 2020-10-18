@@ -72,6 +72,46 @@
               <br>
               <li class="google-font mb-0" style="font-size:120%">The team showcased their <a href="https://ieeesightblog.wordpress.com/2017/03/29/volunteers-represent-ieee-at-utar-engineering-and-science-fiesta/" target=_blank style="text-decoration:none">historical work building devices to help rehabilitate children with movement disorders</a> at the  <a href="https://news.utar.edu.my/news/2017/Feb/25/01/01.html" target=_blank style="text-decoration:none">UTAR Engineering and Science Fiesta 2017</a> that held from 20 to 23 February 2017, which was organised by the UTAR Engineering Society in collaboration with The Institution Of Engineers Malaysia (IEM), Institution of Engineering and Technology (IET), Institution of Chemical Engineers (IChemE), Institution of Mechanical Engineers (IMechE), Institution of Civil Engineers (ICE), Institute of Electrical and Electronics Engineers (IEEE), Institute of Materials, Malaysia (IMM), American Society of Heating, Refrigerating, and Air-Conditioning Engineers (ASHRAE) Student Chapters, as well as UTAR Robotics Society, UTAR Mathematics Society, UTAR Architecture Society and Actuarial Science Society.</li>
               <br>
+              <div id="lingallery">
+                <lingallery 
+                  :iid.sync="currentId" 
+                  :width="600" 
+                  :height="500" 
+                  :responsive="true"
+                  :showThumbnails="true"
+                  :items="[
+                    {
+                      id: 'UTAREngineeringandScienceFiesta2017Event1', 
+                      src: 'img/projects/events/event-9-2.png', 
+                      thumbnail: 'img/projects/events/event-9-2.png', 
+                      alt: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase', 
+                      caption: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase'
+                    },
+                    {
+                      id: 'UTAREngineeringandScienceFiesta2017Event2', 
+                      src: 'img/projects/events/event-9-3.png', 
+                      thumbnail: 'img/projects/events/event-9-3.png', 
+                      alt: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase', 
+                      caption: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase'
+                    },
+                    {
+                      id: 'UTAREngineeringandScienceFiesta2017Event3', 
+                      src: 'img/projects/events/event-9-4.png', 
+                      thumbnail: 'img/projects/events/event-9-4.png', 
+                      alt: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase', 
+                      caption: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase'
+                    },
+                    {
+                      id: 'UTAREngineeringandScienceFiesta2017Event4', 
+                      src: 'img/projects/events/event-9-5.png', 
+                      thumbnail: 'img/projects/events/event-9-5.png', 
+                      alt: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase', 
+                      caption: 'UTAR Engineering and Science Fiesta 2017 Event Product Showcase'
+                    }
+                  ]
+                "/>
+              </div>
+              <br>
               <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://sight.ieee.org/" target=_blank style="text-decoration:none">IEEE SIGHT Blog</a> for article <a href="https://sight.ieee.org/ieee-mysight4rehab-ieee-embs-utar-student-club-interaction-day/" target=_blank style="text-decoration:none">"IEEE-MySIGHT4Rehab & IEEE-EMBS UTAR Student Club Interaction Day"</a> on 28th March 2018.</li>
               <br>
               <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://sight.ieee.org/" target=_blank style="text-decoration:none">IEEE SIGHT Blog</a> for article <a href="https://sight.ieee.org/training-sessions-hac-sight-malaysia/" target=_blank style="text-decoration:none">"Training Sessions in HAC/SIGHT Malaysia"</a> on 31st May 2018.</li>
