@@ -225,6 +225,53 @@
               </div>
               <br>
               <li class="google-font mb-0" style="font-size:120%">Featured in <a href="https://sight.ieee.org/" target=_blank style="text-decoration:none">IEEE SIGHT Blog</a> for article <a href="https://sight.ieee.org/malaysia-sight-group-collaborates-humanitarian-engagement-activity/" target=_blank style="text-decoration:none">"Malaysia SIGHT Group Collaborates In Humanitarian Engagement Activity"</a> on 22nd March 2019.</li>
+              <br>
+              <div id="lingallery">
+                <lingallery 
+                  :iid.sync="currentId" 
+                  :width="600" 
+                  :height="500" 
+                  :responsive="true"
+                  :showThumbnails="true"
+                  :items="[
+                    {
+                      id: 'SIGHTHumanitarianEngagementActivityEvent1', 
+                      src: 'img/projects/events/event-12-1.jpg', 
+                      thumbnail: 'img/projects/events/event-12-1.jpg', 
+                      alt: 'Group Photo With The Center Residents', 
+                      caption: 'Group Photo With The Center Residents'
+                    },
+                    {
+                      id: 'SIGHTHumanitarianEngagementActivityEvent2', 
+                      src: 'img/projects/events/event-12-2.jpg', 
+                      thumbnail: 'img/projects/events/event-12-2.jpg', 
+                      alt: 'Origami Session', 
+                      caption: 'Origami Session'
+                    },
+                    {
+                      id: 'SIGHTHumanitarianEngagementActivityEvent3', 
+                      src: 'img/projects/events/event-12-3.jpg', 
+                      thumbnail: 'img/projects/events/event-12-3.jpg', 
+                      alt: 'Science Demonstration', 
+                      caption: 'Science Demonstration'
+                    },
+                    {
+                      id: 'SIGHTHumanitarianEngagementActivityEvent4', 
+                      src: 'img/projects/events/event-12-4.png', 
+                      thumbnail: 'img/projects/events/event-12-4.png', 
+                      alt: 'Testing Gripping Force Assessment Device', 
+                      caption: 'Testing Gripping Force Assessment Device'
+                    },
+                    {
+                      id: 'SIGHTHumanitarianEngagementActivityEvent5', 
+                      src: 'img/projects/events/event-12-5.jpg', 
+                      thumbnail: 'img/projects/events/event-12-5.jpg', 
+                      alt: 'Electromagnetism Demonstration', 
+                      caption: 'Electromagnetism Demonstration'
+                    }
+                  ]
+                "/>
+              </div>
             </ul>
         </v-flex>
       </v-layout>
