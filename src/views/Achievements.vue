@@ -1,6 +1,5 @@
 <template>
   <v-content class="pa-0">
-
     <v-container fluid class="mt-3 mb-0">
       <v-layout wrap align-center justify-center row fill-height class="my-0">
         <v-flex xs12 md10 class="my-0">
@@ -9,7 +8,34 @@
             <p class="google-font mb-0" style="font-size:120%">The team working hard together since formation of the project group and have achieved significant progress till today.</p>
             <br>
             <ul>
-              <li class="google-font mb-0" style="font-size:120%">First team visit to <a href="http://pibakismiri.gbs2u.com/" target=_blank style="text-decoration:none">Parent's Association Of The Special Children Miri (PIBAKIS) or Pemulihan Dalam Komuniti (PDK Miri)</a>, a Community-based Rehabilitation Centre located at Miri, Sarawak, in conjunction with <a href="https://ewh.ieee.org/sb/malaysia/curtinsarawak/" target=_blank style="text-decoration:none">IEEE Curtin Malaysia Student Branch</a> on 2012.</li>
+              <li class="google-font mb-0" style="font-size:120%">Project team first site visit to <a href="http://pibakismiri.gbs2u.com/" target=_blank style="text-decoration:none">Parent's Association Of The Special Children Miri (PIBAKIS) or Pemulihan Dalam Komuniti (PDK Miri)</a>, a Community-based Rehabilitation Centre located at Miri, Sarawak, in conjunction with <a href="https://ewh.ieee.org/sb/malaysia/curtinsarawak/" target=_blank style="text-decoration:none">IEEE Curtin Malaysia Student Branch</a> on 2012.</li>
+              <br>
+              <!-- <div class="section">
+                  <div class="container">
+                    <div class="row justify-content-md-center">
+                      <div class="col-md-12 col-lg-10">
+                      </div>
+                    </div>
+                  </div>
+              </div> -->
+              <div id="lingallery">
+                <lingallery 
+                  :iid.sync="currentId" 
+                  :width="600" 
+                  :height="500" 
+                  :responsive="true"
+                  :showThumbnails="false"
+                  :items="[
+                    {
+                      id: 'PIBAKIS', 
+                      src: 'img/projects/events/event-4.png', 
+                      thumbnail: 'img/projects/events/event-4.png', 
+                      alt: 'Site Visit To PIBAKIS, Miri, Sarawak', 
+                      caption: 'Site Visit To PIBAKIS, Miri, Sarawak'
+                    }
+                  ]
+                "/>
+              </div>
               <br>
               <li class="google-font mb-0" style="font-size:120%">Two (2) teams from <a href="https://www.utar.edu.my/" target=_blank style="text-decoration:none">Universiti Tunku Abdul Rahman (UTAR)</a> are shortlisted as Top 20 Finalists in <a href="https://aiyehum.ieeer10.org/aiyehum-2016-shortlisted-projects/?fbclid=IwAR3ckB7hYP-FS6LBtuAMHLsz9hmB3V8eBAUvohvQfFwMa0G9btSLAPnJjco" target=_blank style="text-decoration:none">All IEEE Young Engineers’ Humanitarian Challenge (AIYEHUM) 2016</a> for IEEE Region 10 Asia-Pacific region, being the only Malaysian team that shortlisted in AIYEHUM 2016. Each team have received grant of RM3,000 (USD500) from IEEE for prototype development and completion of the project.</li>
               <br>
@@ -35,13 +61,40 @@
 </template>
 
 <script>
+import Lingallery from 'lingallery';
 import TeamDetails from '@/assets/data/chapterDetails.json'
-  export default {
-    components: {},
+
+export default {
+    components: { 
+      Lingallery 
+    },
     data() {
       return {
         TeamDetails: TeamDetails,
+        images: [
+          {
+            id: 'someid1', 
+            src: 'img/projects/design/design-1.png', 
+            thumbnail: 'img/projects/design/design-1.png', 
+            alt: 'Design 1', 
+            caption: 'Design 1'
+          },
+          {
+            id: 'someid2', 
+            src: 'img/projects/design/design-2.png', 
+            thumbnail: 'img/projects/design/design-2.png', 
+            alt: 'Design 2', 
+            caption: 'Design 2'
+          }
+        ]
       }
-    },
-  }
+    }
+}
 </script>
+
+<style scoped>
+#lingallery {  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+</style>
