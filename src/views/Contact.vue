@@ -20,7 +20,7 @@
             </span>
           </p>
             
-          <p class="google-font mb-0" style="font-size:120%">Questions? Please contact Mr. Chong Yu Zheng ({{ChapterDetails.ChapterEmail}}).</p>
+          <p class="google-font mb-0" style="font-size:120%">Questions? Please contact <b>Mr. Chong Yu Zheng</b> ({{ChapterDetails.ChapterEmail}}).</p>
           <br/>
           <div class="google-maps">
             <div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=universiti%20tunku%20abdul%20rahman%20sungai%20long&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.embedgooglemap.net">google maps iframe</a></div>
