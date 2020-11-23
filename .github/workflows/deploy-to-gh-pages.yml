@@ -13,33 +13,46 @@ jobs:
           persist-credentials: false 
 
       - name: Install 🔧
+          # sudo npm install -g codecov
         run: |
           sudo npm install -g @vue/cli
-          sudo npm install -g codecov
           npm ci
 
-      - name: Generate Code Coverage Report 🔧
-        run: |
-          # Code Climate
-          sudo yarn global add nyc
-          curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
-          chmod +x ./cc-test-reporter
-          ./cc-test-reporter before-build
-          
-      - name: Build 🔧
-        run: |
-          npm run build
+      # - name: Generate Code Coverage Report 🔧
+      #   run: |
+      #     # Code Climate
+      #     sudo yarn global add nyc
+      #     curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
+      #     chmod +x ./cc-test-reporter
+      #     ./cc-test-reporter before-build
 
-
+      # - name: Run CodeCov 🚀
+      #   run: |
+      #     codecov --disable=gcov
 
       - name: Run CodeCov 🚀
-        run: |
-          codecov --disable=gcov
+        uses: codecov/codecov-action@v1
+        with:
+          # token: ${{ secrets.CODECOV_TOKEN }} # not required for public repos
+          file: ./coverage.xml # optional
+          files: ./coverage1.xml,./coverage2.xml # optional
+          flags: unittests # optional
+          name: codecov-umbrella # optional
+          fail_ci_if_error: true # optional (default = false)
+          verbose: true # optional (default = false)
+
+      # - name: Run Code Climate 🚀
+      #   run: |
+      #     nyc --reporter=lcov npm run test
+      #     ./cc-test-reporter after-build --exit-code
 
       - name: Run Code Climate 🚀
-        run: |
-          nyc --reporter=lcov npm run test
-          ./cc-test-reporter after-build --exit-code
+        uses: paambaati/codeclimate-action@v2.7.4
+        env:
+          CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
+        with:
+          coverageCommand: npm run coverage
+          debug: true
 
       # - name: Setup SonarQube 🔧
       #   uses: warchant/setup-sonar-scanner@v3
@@ -55,6 +68,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+
+      - name: Build 🔧
+        run: |
+          npm run build
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.6.2
