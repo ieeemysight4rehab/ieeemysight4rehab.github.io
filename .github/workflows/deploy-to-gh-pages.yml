@@ -16,8 +16,8 @@ jobs:
         run: |
           # npm install
           # npm run-script build
-          npm install -g @vue/cli
-          npm install -g codecov
+          sudo npm install -g @vue/cli
+          sudo npm install -g codecov
           npm ci
 
       - name: Deploy 🚀
