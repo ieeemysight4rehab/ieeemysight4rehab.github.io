@@ -14,11 +14,10 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          # npm install
-          # npm run-script build
           sudo npm install -g @vue/cli
           sudo npm install -g codecov
           npm ci
+          npm run build
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.6.2
