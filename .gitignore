@@ -4,6 +4,10 @@ node_modules
 tempKey.js
 src/config/
 
+# Code Coverage
+coverage
+.nyc_output
+
 # local env files
 .env.local
 .env.*.local
