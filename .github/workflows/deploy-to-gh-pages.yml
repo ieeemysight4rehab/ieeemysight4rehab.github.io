@@ -21,7 +21,7 @@ jobs:
       - name: Generate Code Coverage Report 🔧
         run: |
           # Code Climate
-          yarn global add nyc
+          sudo yarn global add nyc
           curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
           chmod +x ./cc-test-reporter
           ./cc-test-reporter before-build
@@ -33,7 +33,7 @@ jobs:
       - name: Upload Code Coverage Report To CodeCov, Code Climate & SonarCloud 🚀
         run: |
           # CodeCov
-          codecov
+          codecov --disable=gcov
           # Code Climate
           nyc --reporter=lcov npm run test
           # SonarCloud
