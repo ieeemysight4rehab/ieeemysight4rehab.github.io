@@ -12,12 +12,34 @@ jobs:
         with:
           persist-credentials: false 
 
-      - name: Install and Build 🔧
+      - name: Install 🔧
         run: |
           sudo npm install -g @vue/cli
           sudo npm install -g codecov
           npm ci
+
+      - name: Generate Code Coverage Report 🔧
+        run: |
+          # Code Climate
+          yarn global add nyc
+          curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
+          chmod +x ./cc-test-reporter
+          ./cc-test-reporter before-build
+          
+      - name: Build 🔧
+        run: |
           npm run build
+
+      - name: Upload Code Coverage Report To CodeCov, Code Climate & SonarCloud 🚀
+        run: |
+          # CodeCov
+          codecov
+          # Code Climate
+          nyc --reporter=lcov npm run test
+          # SonarCloud
+          sonar-scanner
+          # Code Climate
+          ./cc-test-reporter after-build --exit-code
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.6.2
