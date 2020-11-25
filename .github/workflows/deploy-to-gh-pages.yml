@@ -20,8 +20,7 @@ jobs:
 
       - name: Boot Server 🔧
         run: |
-          npm update caniuse-lite browserslist
-          npm run serve & wait-on http://localhost:8080
+          sudo npm run serve & wait-on http://localhost:8080
 
       # - name: Generate Code Coverage Report 🔧
       #   run: |
