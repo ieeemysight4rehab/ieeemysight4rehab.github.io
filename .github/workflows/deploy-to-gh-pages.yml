@@ -13,15 +13,10 @@ jobs:
           persist-credentials: false 
 
       - name: Install 🔧
-          # sudo npm install -g codecov
         run: |
           sudo npm install -g @vue/cli
           sudo npm install -g wait-on
           npm ci
-
-      # - name: Boot Server 🔧
-      #   run: |
-      #     npm run serve & wait-on http://localhost:8080
 
       # - name: Generate Code Coverage Report 🔧
       #   run: |
@@ -70,7 +65,7 @@ jobs:
         env:
           CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
         with:
-          coverageCommand: npm run coverage
+          # coverageCommand: npm run coverage
           debug: true
 
       # - name: Setup SonarQube 🔧
