@@ -14,15 +14,14 @@ jobs:
 
       - name: Install 🔧
           # sudo npm install -g codecov
-          # npm ci
         run: |
           sudo npm install -g @vue/cli
           sudo npm install -g wait-on
-          npm install
+          npm ci
 
-      - name: Boot Server 🔧
-        run: |
-          npm run serve & wait-on http://localhost:8080
+      # - name: Boot Server 🔧
+      #   run: |
+      #     npm run serve & wait-on http://localhost:8080
 
       # - name: Generate Code Coverage Report 🔧
       #   run: |
@@ -36,7 +35,9 @@ jobs:
         uses: cypress-io/github-action@v2
         with:
           browser: chrome
-          build: npm run build
+          # build: npm run build
+          start: npm run serve
+          wait-on: 'http://localhost:8080'
           record: true
         env:
           # pass the Dashboard record key as an environment variable
