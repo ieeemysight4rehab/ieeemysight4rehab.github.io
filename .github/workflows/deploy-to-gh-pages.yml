@@ -16,7 +16,7 @@ jobs:
           # sudo npm install -g codecov
         run: |
           sudo npm install -g @vue/cli
-          npm ci
+          sudo npm ci
 
       - name: Boot Server 🔧
         run: |
