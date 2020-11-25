@@ -39,7 +39,7 @@ jobs:
       
       - name: Generate CodeCov Code Coverage Report 🔧
         run: |
-          codecov
+          codecov --cover-xml
 
       - name: Run CodeCov 🚀
         uses: codecov/codecov-action@v1
@@ -58,6 +58,7 @@ jobs:
           curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
           chmod +x ./cc-test-reporter
           ./cc-test-reporter before-build
+          nyc --reporter=lcov npm run test
 
       # - name: Run Code Climate 🚀
       #   run: |
