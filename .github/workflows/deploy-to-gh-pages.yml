@@ -18,14 +18,6 @@ jobs:
           sudo npm install -g wait-on
           npm ci
 
-      # - name: Generate Code Coverage Report 🔧
-      #   run: |
-      #     # Code Climate
-      #     sudo yarn global add nyc
-      #     curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
-      #     chmod +x ./cc-test-reporter
-      #     ./cc-test-reporter before-build
-
       - name: Run Cypress 🚀
         uses: cypress-io/github-action@v2
         with:
@@ -54,6 +46,14 @@ jobs:
           name: codecov-umbrella # optional
           fail_ci_if_error: false # optional (default = false)
           verbose: true # optional (default = false)
+
+      - name: Generate Code Climate Test Report 🔧
+        run: |
+          # Code Climate
+          sudo yarn global add nyc
+          curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
+          chmod +x ./cc-test-reporter
+          ./cc-test-reporter before-build
 
       # - name: Run Code Climate 🚀
       #   run: |
