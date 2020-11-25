@@ -15,6 +15,7 @@ jobs:
       - name: Install 🔧
         run: |
           sudo npm install -g @vue/cli
+          sudo npm install -g codecov
           sudo npm install -g wait-on
           npm ci
 
@@ -35,21 +36,24 @@ jobs:
       # - name: Run CodeCov 🚀
       #   run: |
       #     codecov --disable=gcov
+      
+      - name: Generate CodeCov Code Coverage Report 🔧
+        run: |
+          codecov
 
       - name: Run CodeCov 🚀
         uses: codecov/codecov-action@v1
         with:
           # token: ${{ secrets.CODECOV_TOKEN }} # not required for public repos
-          file: ./coverage.xml # optional
-          files: ./coverage1.xml,./coverage2.xml # optional
-          flags: unittests # optional
-          name: codecov-umbrella # optional
+          # file: ./coverage.xml # optional
+          # files: ./coverage1.xml,./coverage2.xml # optional
+          # flags: unittests # optional
+          # name: codecov-umbrella # optional
           fail_ci_if_error: false # optional (default = false)
           verbose: true # optional (default = false)
 
-      - name: Generate Code Climate Test Report 🔧
+      - name: Generate Code Climate Quality Report 🔧
         run: |
-          # Code Climate
           sudo yarn global add nyc
           curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
           chmod +x ./cc-test-reporter
