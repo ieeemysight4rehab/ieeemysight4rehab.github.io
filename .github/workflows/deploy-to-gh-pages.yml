@@ -16,11 +16,12 @@ jobs:
           # sudo npm install -g codecov
         run: |
           sudo npm install -g @vue/cli
-          sudo npm ci
+          sudo npm install -g wait-on
+          npm ci
 
       - name: Boot Server 🔧
         run: |
-          sudo npm run serve & wait-on http://localhost:8080
+          npm run serve & wait-on http://localhost:8080
 
       # - name: Generate Code Coverage Report 🔧
       #   run: |
