@@ -14,10 +14,11 @@ jobs:
 
       - name: Install 🔧
           # sudo npm install -g codecov
+          # npm ci
         run: |
           sudo npm install -g @vue/cli
           sudo npm install -g wait-on
-          npm ci
+          npm install
 
       - name: Boot Server 🔧
         run: |
