@@ -13,15 +13,10 @@ jobs:
           persist-credentials: false 
 
       - name: Install 🔧
-          # sudo npm install -g codecov
         run: |
           sudo npm install -g @vue/cli
           sudo npm install -g wait-on
           npm ci
-
-      # - name: Boot Server 🔧
-      #   run: |
-      #     npm run serve & wait-on http://localhost:8080
 
       # - name: Generate Code Coverage Report 🔧
       #   run: |
