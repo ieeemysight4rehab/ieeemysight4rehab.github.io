@@ -18,6 +18,10 @@ jobs:
           sudo npm install -g @vue/cli
           npm ci
 
+      - name: Boot Server 🔧
+        run: |
+          npm run serve & wait-on http://localhost:8080
+
       # - name: Generate Code Coverage Report 🔧
       #   run: |
       #     # Code Climate
