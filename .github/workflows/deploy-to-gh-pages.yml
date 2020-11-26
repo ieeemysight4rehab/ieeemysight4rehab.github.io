@@ -39,7 +39,9 @@ jobs:
       
       - name: Generate CodeCov Code Coverage Report 🔧
         run: |
+          ls -la
           sudo codecov --disable=gcov
+          ls -la
 
       - name: Run CodeCov 🚀
         uses: codecov/codecov-action@v1
