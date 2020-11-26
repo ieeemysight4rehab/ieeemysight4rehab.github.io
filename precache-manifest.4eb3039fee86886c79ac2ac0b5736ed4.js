@@ -96,16 +96,16 @@ self.__precacheManifest = [
     "url": "/img/bg.7ef974da.svg"
   },
   {
-    "revision": "e79bfd88537def476913f3ed52f4f4b3",
-    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
-  },
-  {
     "revision": "570eb83859dc23dd0eec423a49e147fe",
     "url": "/fonts/MaterialIcons-Regular.570eb838.woff2"
   },
   {
     "revision": "012cf6a10129e2275d79d6adac7f3b02",
     "url": "/fonts/MaterialIcons-Regular.012cf6a1.woff"
+  },
+  {
+    "revision": "e79bfd88537def476913f3ed52f4f4b3",
+    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
   },
   {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
@@ -120,16 +120,16 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-Thin.ad538a69.woff2"
   },
   {
-    "revision": "d3b47375afd904983d9be8d6e239a949",
-    "url": "/fonts/Roboto-Thin.d3b47375.woff"
-  },
-  {
     "revision": "5b4a33e176ff736a74f0ca2dd9e6b396",
     "url": "/fonts/Roboto-ThinItalic.5b4a33e1.woff2"
   },
   {
     "revision": "8a96edbbcd9a6991d79371aed0b0288e",
     "url": "/fonts/Roboto-ThinItalic.8a96edbb.woff"
+  },
+  {
+    "revision": "d3b47375afd904983d9be8d6e239a949",
+    "url": "/fonts/Roboto-Thin.d3b47375.woff"
   },
   {
     "revision": "d26871e8149b5759f814fd3c7a4f784b",
@@ -360,10 +360,6 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-5.png"
   },
   {
-    "revision": "2167327c868d5f59a76911c4e0ae46b9",
-    "url": "/img/projects/prototype/prototype-6.png"
-  },
-  {
     "revision": "abbc8180c1cf9aefdc0bbfdd131e1744",
     "url": "/img/projects/results/result-1-1.jpg"
   },
@@ -412,12 +408,16 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-8-1.png"
   },
   {
+    "revision": "6cfafa6f018e5eaaca4ce12000f9ae0a",
+    "url": "/img/projects/prototype/prototype-8-2.png"
+  },
+  {
     "revision": "0cc20aa8ab1da033f0ca03747c55a590",
     "url": "/img/projects/prototype/prototype-9.png"
   },
   {
-    "revision": "6cfafa6f018e5eaaca4ce12000f9ae0a",
-    "url": "/img/projects/prototype/prototype-8-2.png"
+    "revision": "2167327c868d5f59a76911c4e0ae46b9",
+    "url": "/img/projects/prototype/prototype-6.png"
   },
   {
     "revision": "4bb694ac4c54643e3e7fb7d98a272c80",
