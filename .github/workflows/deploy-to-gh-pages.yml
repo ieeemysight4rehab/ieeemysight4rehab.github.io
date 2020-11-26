@@ -52,40 +52,29 @@ jobs:
           fail_ci_if_error: false # optional (default = false)
           verbose: true # optional (default = false)
 
-      - name: Generate Code Climate Quality Report 🔧
-          # nyc --reporter=lcov npm run test
-        run: |
-          sudo yarn global add nyc
-          curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
-          chmod +x ./cc-test-reporter
-          ./cc-test-reporter before-build
-          ./cc-test-reporter format-coverage --input-type lcov upload-coverage
+      # - name: Generate Code Climate Quality Report 🔧
+      #     # nyc --reporter=lcov npm run test
+      #     # ./cc-test-reporter format-coverage --input-type lcov upload-coverage
+      #   run: |
+      #     sudo yarn global add nyc
+      #     curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
+      #     chmod +x ./cc-test-reporter
+      #     ./cc-test-reporter before-build
           
       # - name: Run Code Climate 🚀
+      #   uses: paambaati/codeclimate-action@v2.7.4
+      #   env:
+      #     CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
+      #   with:
+      #     # coverageCommand: npm run coverage
+      #     debug: true
+
+      # - name: Terminate Code Climate Quality Report Process 🔧
       #   run: |
-      #     nyc --reporter=lcov npm run test
-      #     ./cc-test-reporter after-build --exit-code
-
-      - name: Run Code Climate 🚀
-        uses: paambaati/codeclimate-action@v2.7.4
-        env:
-          CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
-        with:
-          # coverageCommand: npm run coverage
-          debug: true
-
-      - name: Terminate Code Climate Quality Report Process 🔧
-        run: |
-          ./cc-test-reporter after-build $EXIT_CODE
+      #     ./cc-test-reporter after-build $EXIT_CODE
 
       # - name: Setup SonarQube 🔧
       #   uses: warchant/setup-sonar-scanner@v3
-
-      # - name: Run SonarQube 🚀
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #   run: sonar-scanner
-      #       -Dsonar.login=${{ secrets.SONAR_TOKEN }}
 
       - name: Run SonarCloud 🚀
         uses: SonarSource/sonarcloud-github-action@master
