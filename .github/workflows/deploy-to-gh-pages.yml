@@ -35,11 +35,11 @@ jobs:
 
       # - name: Run CodeCov 🚀
       #   run: |
-      #     codecov --disable=gcov
+      #     codecov xml --disable=gcov
       
       - name: Generate CodeCov Code Coverage Report 🔧
         run: |
-          codecov xml --disable=gcov
+          codecov --disable=gcov
 
       - name: Run CodeCov 🚀
         uses: codecov/codecov-action@v1
