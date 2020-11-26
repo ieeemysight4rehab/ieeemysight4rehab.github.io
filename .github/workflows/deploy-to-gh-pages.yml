@@ -59,7 +59,7 @@ jobs:
           curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
           chmod +x ./cc-test-reporter
           ./cc-test-reporter before-build
-          ./cc-test-reporter format-coverage upload-coverage
+          ./cc-test-reporter format-coverage --input-type lcov upload-coverage
           
       # - name: Run Code Climate 🚀
       #   run: |
@@ -73,6 +73,10 @@ jobs:
         with:
           # coverageCommand: npm run coverage
           debug: true
+
+      - name: Terminate Code Climate Quality Report Process 🔧
+        run: |
+          ./cc-test-reporter after-build $EXIT_CODE
 
       # - name: Setup SonarQube 🔧
       #   uses: warchant/setup-sonar-scanner@v3
