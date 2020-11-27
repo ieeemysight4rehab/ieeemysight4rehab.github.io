@@ -14,6 +14,7 @@ jobs:
 
       - name: Install 🔧
         run: |
+          ls -la
           sudo npm install -g @vue/cli
           sudo npm install -g codecov
           sudo npm install -g wait-on
@@ -77,6 +78,10 @@ jobs:
 
       # - name: Setup SonarQube 🔧
       #   uses: warchant/setup-sonar-scanner@v3
+
+      - name: Debug 🔧
+        run: |
+          ls -la
 
       - name: Run SonarCloud 🚀
         uses: SonarSource/sonarcloud-github-action@master
