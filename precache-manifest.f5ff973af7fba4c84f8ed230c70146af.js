@@ -164,10 +164,6 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-RegularItalic.f5902d5e.woff"
   },
   {
-    "revision": "90d1676003d9c28c04994c18bfd8b558",
-    "url": "/fonts/Roboto-Medium.90d16760.woff2"
-  },
-  {
     "revision": "1d6594826615607f6dc860bb49258acb",
     "url": "/fonts/Roboto-Medium.1d659482.woff"
   },
@@ -212,6 +208,10 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
+    "revision": "90d1676003d9c28c04994c18bfd8b558",
+    "url": "/fonts/Roboto-Medium.90d16760.woff2"
+  },
+  {
     "revision": "9f75886c99f7ad70d485d9e39895c62a",
     "url": "/img/ieeeembs.9f75886c.png"
   },
@@ -228,12 +228,12 @@ self.__precacheManifest = [
     "url": "/apple-touch-icon.png"
   },
   {
-    "revision": "061f63e8fbf1d2fe82cd8bf4d46f0a0c",
-    "url": "/browserconfig.xml"
-  },
-  {
     "revision": "6b60e395572c2b5bfec12bae48706965",
     "url": "/img/fav/favicon-16.png"
+  },
+  {
+    "revision": "061f63e8fbf1d2fe82cd8bf4d46f0a0c",
+    "url": "/browserconfig.xml"
   },
   {
     "revision": "7043f055659bb85639518fda2ce562d3",
@@ -276,10 +276,6 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-12-5.jpg"
   },
   {
-    "revision": "174351a3972d92525ac78c3ec8c08d80",
-    "url": "/img/projects/events/event-2-1.png"
-  },
-  {
     "revision": "2e5d3316079d060aa8693e97fb890d36",
     "url": "/img/projects/events/event-2-2.jpg"
   },
@@ -302,6 +298,10 @@ self.__precacheManifest = [
   {
     "revision": "8fa676f110108ea41991e2aafe9b9fbf",
     "url": "/img/projects/events/event-2-7.jpg"
+  },
+  {
+    "revision": "174351a3972d92525ac78c3ec8c08d80",
+    "url": "/img/projects/events/event-2-1.png"
   },
   {
     "revision": "348bed685527bac23c15940ca221fb85",
@@ -344,24 +344,24 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-1.png"
   },
   {
-    "revision": "92bab103a4776ea027b9836ffc8f9b05",
-    "url": "/img/projects/prototype/prototype-3.png"
-  },
-  {
     "revision": "aa8109c5e9a2a793b97cdf820ee1877b",
     "url": "/img/projects/prototype/prototype-2.png"
+  },
+  {
+    "revision": "92bab103a4776ea027b9836ffc8f9b05",
+    "url": "/img/projects/prototype/prototype-3.png"
   },
   {
     "revision": "a2621ed6bf38f1cec94ffdc9b0845fbe",
     "url": "/img/projects/prototype/prototype-4.png"
   },
   {
-    "revision": "1b69e50cb01c4803b5b8795805bf3104",
-    "url": "/img/projects/prototype/prototype-5.png"
-  },
-  {
     "revision": "2167327c868d5f59a76911c4e0ae46b9",
     "url": "/img/projects/prototype/prototype-6.png"
+  },
+  {
+    "revision": "1b69e50cb01c4803b5b8795805bf3104",
+    "url": "/img/projects/prototype/prototype-5.png"
   },
   {
     "revision": "abbc8180c1cf9aefdc0bbfdd131e1744",
@@ -372,24 +372,24 @@ self.__precacheManifest = [
     "url": "/img/projects/results/result-1-2.png"
   },
   {
-    "revision": "b8d808a40abb8a1191d06989b5aaf9cd",
-    "url": "/mstile-150x150.png"
-  },
-  {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "b8d808a40abb8a1191d06989b5aaf9cd",
+    "url": "/mstile-150x150.png"
   },
   {
     "revision": "02744c67a725024d9a966fe3e26c6347",
     "url": "/img/projects/events/event-10-2.png"
   },
   {
-    "revision": "98edc5fc3122147ce23aad0632e51412",
-    "url": "/img/projects/events/event-11-1.png"
-  },
-  {
     "revision": "0da4759d5631d1f3b0d08bf9fbaf3163",
     "url": "/img/projects/events/event-11-2.png"
+  },
+  {
+    "revision": "98edc5fc3122147ce23aad0632e51412",
+    "url": "/img/projects/events/event-11-1.png"
   },
   {
     "revision": "c40415ab7acdf3e7b95bf3f3d87fb19a",
@@ -412,12 +412,12 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-8-1.png"
   },
   {
-    "revision": "6cfafa6f018e5eaaca4ce12000f9ae0a",
-    "url": "/img/projects/prototype/prototype-8-2.png"
-  },
-  {
     "revision": "0cc20aa8ab1da033f0ca03747c55a590",
     "url": "/img/projects/prototype/prototype-9.png"
+  },
+  {
+    "revision": "6cfafa6f018e5eaaca4ce12000f9ae0a",
+    "url": "/img/projects/prototype/prototype-8-2.png"
   },
   {
     "revision": "4bb694ac4c54643e3e7fb7d98a272c80",
