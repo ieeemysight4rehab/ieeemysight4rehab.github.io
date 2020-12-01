@@ -23,7 +23,6 @@ jobs:
         uses: cypress-io/github-action@v2
         with:
           browser: chrome
-          # build: npm run build
           start: npm run serve
           wait-on: 'http://localhost:8080'
           record: false
@@ -32,16 +31,11 @@ jobs:
           CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
           # pass GitHub token to allow accurately detecting a build vs a re-run build
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # - name: Run CodeCov 🚀
-      #   run: |
-      #     codecov xml --disable=gcov
       
       - name: Generate CodeCov Code Coverage Report 🔧
         run: |
           ls -la
           sudo codecov --disable=gcov
-          ls -la
 
       - name: Run CodeCov 🚀
         uses: codecov/codecov-action@v1
@@ -63,20 +57,17 @@ jobs:
       #     chmod +x ./cc-test-reporter
       #     ./cc-test-reporter before-build
           
-      # - name: Run Code Climate 🚀
-      #   uses: paambaati/codeclimate-action@v2.7.4
-      #   env:
-      #     CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
-      #   with:
-      #     # coverageCommand: npm run coverage
-      #     debug: true
+      - name: Run Code Climate 🚀
+        uses: paambaati/codeclimate-action@v2.7.4
+        env:
+          CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
+        with:
+          coverageCommand: npm run coverage
+          debug: true
 
       # - name: Terminate Code Climate Quality Report Process 🔧
       #   run: |
       #     ./cc-test-reporter after-build $EXIT_CODE
-
-      # - name: Setup SonarQube 🔧
-      #   uses: warchant/setup-sonar-scanner@v3
 
       - name: Run SonarCloud 🚀
         uses: SonarSource/sonarcloud-github-action@master
