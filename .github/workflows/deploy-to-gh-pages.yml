@@ -23,7 +23,6 @@ jobs:
         uses: cypress-io/github-action@v2
         with:
           browser: chrome
-          # build: npm run build
           start: npm run serve
           wait-on: 'http://localhost:8080'
           record: false
@@ -32,16 +31,11 @@ jobs:
           CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
           # pass GitHub token to allow accurately detecting a build vs a re-run build
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # - name: Run CodeCov 🚀
-      #   run: |
-      #     codecov xml --disable=gcov
       
       - name: Generate CodeCov Code Coverage Report 🔧
         run: |
           ls -la
           sudo codecov --disable=gcov
-          ls -la
 
       - name: Run CodeCov 🚀
         uses: codecov/codecov-action@v1
