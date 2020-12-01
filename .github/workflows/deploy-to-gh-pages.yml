@@ -40,22 +40,8 @@ jobs:
       - name: Run CodeCov 🚀
         uses: codecov/codecov-action@v1
         with:
-          # token: ${{ secrets.CODECOV_TOKEN }} # not required for public repos
-          # file: ./coverage.xml # optional
-          # files: ./coverage1.xml,./coverage2.xml # optional
-          # flags: unittests # optional
-          # name: codecov-umbrella # optional
           fail_ci_if_error: false # optional (default = false)
           verbose: true # optional (default = false)
-
-      # - name: Generate Code Climate Quality Report 🔧
-      #     # nyc --reporter=lcov npm run test
-      #     # ./cc-test-reporter format-coverage --input-type lcov upload-coverage
-      #   run: |
-      #     sudo yarn global add nyc
-      #     curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
-      #     chmod +x ./cc-test-reporter
-      #     ./cc-test-reporter before-build
           
       - name: Run Code Climate 🚀
         uses: paambaati/codeclimate-action@v2.7.4
@@ -64,10 +50,6 @@ jobs:
         with:
           coverageCommand: npm run coverage
           debug: true
-
-      # - name: Terminate Code Climate Quality Report Process 🔧
-      #   run: |
-      #     ./cc-test-reporter after-build $EXIT_CODE
 
       - name: Run SonarCloud 🚀
         uses: SonarSource/sonarcloud-github-action@master
