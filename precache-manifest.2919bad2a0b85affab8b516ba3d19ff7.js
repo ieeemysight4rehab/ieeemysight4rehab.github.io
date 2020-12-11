@@ -156,10 +156,6 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-Regular.35b07eb2.woff"
   },
   {
-    "revision": "4357beb823a5f8d65c260f045d9e019a",
-    "url": "/fonts/Roboto-RegularItalic.4357beb8.woff2"
-  },
-  {
     "revision": "f5902d5ef961717ed263902fc429e6ae",
     "url": "/fonts/Roboto-RegularItalic.f5902d5e.woff"
   },
@@ -212,6 +208,10 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
+    "revision": "4357beb823a5f8d65c260f045d9e019a",
+    "url": "/fonts/Roboto-RegularItalic.4357beb8.woff2"
+  },
+  {
     "revision": "9f75886c99f7ad70d485d9e39895c62a",
     "url": "/img/ieeeembs.9f75886c.png"
   },
@@ -242,10 +242,6 @@ self.__precacheManifest = [
   {
     "revision": "a72f0d894daf85a96c7598e9bbed2787",
     "url": "/img/projects/design/design-1.png"
-  },
-  {
-    "revision": "2c211bc16a85445f59219f78ecb187e9",
-    "url": "/img/projects/design/design-2.png"
   },
   {
     "revision": "a9b1320ae46d3be1d9871f27e6dbb07c",
@@ -324,10 +320,6 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-7.png"
   },
   {
-    "revision": "41975a8d62de8de41a4ce1ade77f1ffc",
-    "url": "/img/projects/events/event-8.png"
-  },
-  {
     "revision": "4ddad9ee32fc4be87c4d208b5f33aa35",
     "url": "/img/projects/events/event-9-2.png"
   },
@@ -356,10 +348,6 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-4.png"
   },
   {
-    "revision": "1b69e50cb01c4803b5b8795805bf3104",
-    "url": "/img/projects/prototype/prototype-5.png"
-  },
-  {
     "revision": "2167327c868d5f59a76911c4e0ae46b9",
     "url": "/img/projects/prototype/prototype-6.png"
   },
@@ -368,8 +356,8 @@ self.__precacheManifest = [
     "url": "/img/projects/results/result-1-1.jpg"
   },
   {
-    "revision": "6abd090936f5d516ec245653cc694834",
-    "url": "/img/projects/results/result-1-2.png"
+    "revision": "2c211bc16a85445f59219f78ecb187e9",
+    "url": "/img/projects/design/design-2.png"
   },
   {
     "revision": "b8d808a40abb8a1191d06989b5aaf9cd",
@@ -404,12 +392,12 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-10.png"
   },
   {
-    "revision": "8785ae4c0b9ee241c8e75c18dbf01b09",
-    "url": "/img/projects/prototype/prototype-8-1.png"
-  },
-  {
     "revision": "99aa7d27ac285d89aca7077ec0576d9a",
     "url": "/img/projects/prototype/prototype-7.png"
+  },
+  {
+    "revision": "8785ae4c0b9ee241c8e75c18dbf01b09",
+    "url": "/img/projects/prototype/prototype-8-1.png"
   },
   {
     "revision": "6cfafa6f018e5eaaca4ce12000f9ae0a",
@@ -418,6 +406,18 @@ self.__precacheManifest = [
   {
     "revision": "0cc20aa8ab1da033f0ca03747c55a590",
     "url": "/img/projects/prototype/prototype-9.png"
+  },
+  {
+    "revision": "6abd090936f5d516ec245653cc694834",
+    "url": "/img/projects/results/result-1-2.png"
+  },
+  {
+    "revision": "1b69e50cb01c4803b5b8795805bf3104",
+    "url": "/img/projects/prototype/prototype-5.png"
+  },
+  {
+    "revision": "41975a8d62de8de41a4ce1ade77f1ffc",
+    "url": "/img/projects/events/event-8.png"
   },
   {
     "revision": "4bb694ac4c54643e3e7fb7d98a272c80",
