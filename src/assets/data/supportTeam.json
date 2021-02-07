@@ -1,56 +1,56 @@
 [
-    {
-        "name":"Nathynie",
-        "designation":"Event Coordinator (2016)",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/nat-aro-73308a36/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Huan Mei Chyi",
-        "designation":"Event Coordinator (2016)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Chong Pit Nyuk",
-        "designation":"Physiotherapist (2016)",
-        "twitter":"",
-        "linkedin":"https://my.linkedin.com/in/chong-pit-nyuk-728767ab",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"續榆",
-        "designation":"Volunteer (2015)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Liu Qian",
-        "designation":"Volunteer (2015)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Liew Wei Zhian",
-        "designation":"Volunteer (2015)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    }
+  {
+    "name": "Nathynie",
+    "designation": "Event Coordinator (2016)",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/nat-aro-73308a36/",
+    "github": "",
+    "profileImage": "nathynie.jpg",
+    "website": ""
+  },
+  {
+    "name": "Huan Mei Chyi",
+    "designation": "Event Coordinator (2016)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Chong Pit Nyuk",
+    "designation": "Physiotherapist (2016)",
+    "twitter": "",
+    "linkedin": "https://my.linkedin.com/in/chong-pit-nyuk-728767ab",
+    "github": "",
+    "profileImage": "chong-pit-nyuk.jpg",
+    "website": ""
+  },
+  {
+    "name": "續榆",
+    "designation": "Volunteer (2015)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Liu Qian",
+    "designation": "Volunteer (2015)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Liew Wei Zhian",
+    "designation": "Volunteer (2015)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  }
 ]
