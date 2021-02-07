@@ -1,92 +1,92 @@
 [
-    {
-        "name":"Alpha Agape Gopalai",
-        "designation":"Co-Founder",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/alpha-agape-gopalai-4a856634/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Lee Yoot Khuan",
-        "designation":"Co-Founder",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/khuan-y-lee-30ab4955/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Chong Yu Zheng",
-        "designation":"Co-Founder",
-        "twitter":"",
-        "linkedin":"https://my.linkedin.com/in/yzchong",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Darwin Gouwanda",
-        "designation":"Co-Founder",
-        "twitter":"",
-        "linkedin":"https://my.linkedin.com/in/darwin-gouwanda-81b24837",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Kim Lian Hua",
-        "designation":"Co-Founder & Consultant",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Teoh Boon Yew",
-        "designation":"Co-Founder & Project Leader (2013 - 2020)",
-        "twitter":"",
-        "linkedin":"https://my.linkedin.com/in/teoh-boon-yew-926745181",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Jerry Chong",
-        "designation":"Project Leader (2016)",
-        "twitter":"https://www.twitter.com/jerrychong25",
-        "linkedin":"https://www.linkedin.com/in/jerry-chong/",
-        "github":"https://www.github.com/jerrychong25",
-        "profileImage":"",
-        "website":"https://jerrychong.tk/"
-    },
-    {
-        "name":"Lee Zhi Hong",
-        "designation":"Project Leader (2013 - 2014)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Wong Zhen Yang",
-        "designation":"Project Manager (2013)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Fong Yong Sheng",
-        "designation":"Project Manager (2013)",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/yong-sheng-fong-749bb327",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    }
+  {
+    "name": "Alpha Agape Gopalai",
+    "designation": "Co-Founder",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/alpha-agape-gopalai-4a856634/",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Lee Yoot Khuan",
+    "designation": "Co-Founder",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/khuan-y-lee-30ab4955/",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Chong Yu Zheng",
+    "designation": "Co-Founder",
+    "twitter": "",
+    "linkedin": "https://my.linkedin.com/in/yzchong",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Darwin Gouwanda",
+    "designation": "Co-Founder",
+    "twitter": "",
+    "linkedin": "https://my.linkedin.com/in/darwin-gouwanda-81b24837",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Kim Lian Hua",
+    "designation": "Co-Founder & Consultant",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Teoh Boon Yew",
+    "designation": "Co-Founder & Project Leader (2013 - 2020)",
+    "twitter": "",
+    "linkedin": "https://my.linkedin.com/in/teoh-boon-yew-926745181",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Jerry Chong",
+    "designation": "Project Leader (2016)",
+    "twitter": "https://www.twitter.com/jerrychong25",
+    "linkedin": "https://www.linkedin.com/in/jerry-chong/",
+    "github": "https://www.github.com/jerrychong25",
+    "profileImage": "jerry-chong.png",
+    "website": "https://jerrychong.tk/"
+  },
+  {
+    "name": "Lee Zhi Hong",
+    "designation": "Project Leader (2013 - 2014)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Wong Zhen Yang",
+    "designation": "Project Manager (2013)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Fong Yong Sheng",
+    "designation": "Project Manager (2013)",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/yong-sheng-fong-749bb327",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  }
 ]

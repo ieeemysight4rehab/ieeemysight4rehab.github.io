@@ -1,128 +1,128 @@
 [
-    {
-        "name":"Jerry Chong",
-        "designation":"Team Lead (2016)",
-        "twitter":"https://www.twitter.com/jerrychong25",
-        "linkedin":"https://www.linkedin.com/in/jerry-chong/",
-        "github":"https://www.github.com/jerrychong25",
-        "profileImage":"",
-        "website":"https://jerrychong.tk/"
-    },
-    {
-        "name":" Mansour Alawi",
-        "designation":"Team Lead (2016 - 2017)",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/mansouralawi/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Heng Yeh Tat",
-        "designation":"Electronic Engineer (2016)",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/yehtat/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Ng Peng Yee",
-        "designation":"Electronic Engineer (2016)",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/pengyee-ng/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Marshall Loi Kuan Guan",
-        "designation":"Electronic Engineer (2016)",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/marshall-loi/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Lee Tiong King",
-        "designation":"Software Engineer (2016)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Thulsimalar",
-        "designation":"Electronic Engineer (2016)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Koh Wei Lin",
-        "designation":"Electronic Engineer (2016)",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/wei-lin-koh-870285198/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Ng Le Anne",
-        "designation":"Electronic Engineer (2016)",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/le-anne-ng-16a4a21ab/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Mohanad Adam",
-        "designation":"Mechanical Engineer (2016)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Hong Ye Yi",
-        "designation":"Mechanical Engineer (2016)",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/ye-yi-hong-373586118/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Dyckson Loo",
-        "designation":"Mechanical Engineer (2016)",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/dyckson-loo-9b63511a3/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Albert Chan",
-        "designation":"Mechanical Engineer (2017)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Tee Jing Yi",
-        "designation":"Electronic Engineer (2015)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    }
+  {
+    "name": "Jerry Chong",
+    "designation": "Team Lead (2016)",
+    "twitter": "https://www.twitter.com/jerrychong25",
+    "linkedin": "https://www.linkedin.com/in/jerry-chong/",
+    "github": "https://www.github.com/jerrychong25",
+    "profileImage": "jerry-chong.png",
+    "website": "https://jerrychong.tk/"
+  },
+  {
+    "name": " Mansour Alawi",
+    "designation": "Team Lead (2016 - 2017)",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/mansouralawi/",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Heng Yeh Tat",
+    "designation": "Electronic Engineer (2016)",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/yehtat/",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Ng Peng Yee",
+    "designation": "Electronic Engineer (2016)",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/pengyee-ng/",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Marshall Loi Kuan Guan",
+    "designation": "Electronic Engineer (2016)",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/marshall-loi/",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Lee Tiong King",
+    "designation": "Software Engineer (2016)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Thulsimalar",
+    "designation": "Electronic Engineer (2016)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Koh Wei Lin",
+    "designation": "Electronic Engineer (2016)",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/wei-lin-koh-870285198/",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Ng Le Anne",
+    "designation": "Electronic Engineer (2016)",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/le-anne-ng-16a4a21ab/",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Mohanad Adam",
+    "designation": "Mechanical Engineer (2016)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Hong Ye Yi",
+    "designation": "Mechanical Engineer (2016)",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/ye-yi-hong-373586118/",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Dyckson Loo",
+    "designation": "Mechanical Engineer (2016)",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/dyckson-loo-9b63511a3/",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Albert Chan",
+    "designation": "Mechanical Engineer (2017)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Tee Jing Yi",
+    "designation": "Electronic Engineer (2015)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  }
 ]
