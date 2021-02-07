@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7e79f01492d2822f3380",
+    "revision": "c1111628392980b0597d",
     "url": "/css/app.f4e27866.css"
   },
   {
-    "revision": "7e79f01492d2822f3380",
-    "url": "/js/app.21e622d5.js"
+    "revision": "c1111628392980b0597d",
+    "url": "/js/app.7998f077.js"
   },
   {
     "revision": "14b7bd4be202d7d484bd",
@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/js/chunk-459cab69.235b87ef.js"
   },
   {
+    "revision": "2db7b3e6d91654792c9e",
+    "url": "/js/chunk-699c4d89.e1d57504.js"
+  },
+  {
     "revision": "d5458b3f8312a4a03687",
     "url": "/css/chunk-6a27e5c7.88838de7.css"
   },
   {
     "revision": "d5458b3f8312a4a03687",
     "url": "/js/chunk-6a27e5c7.9af60949.js"
-  },
-  {
-    "revision": "d21fccc35e48ecbfd1bd",
-    "url": "/js/chunk-c90c0fd8.17fbed9e.js"
   },
   {
     "revision": "93da70f1bbbc05c955d5",
@@ -52,8 +52,20 @@ self.__precacheManifest = [
     "url": "/img/jerry-chong.5958f9ec.png"
   },
   {
+    "revision": "e1a51062289284137ac69e0066157336",
+    "url": "/img/hong-ye-yi.e1a51062.jpg"
+  },
+  {
+    "revision": "709825d43feb13359622c18bb8bf49e3",
+    "url": "/img/alpha-agape.709825d4.jpg"
+  },
+  {
     "revision": "016c048518be7af488a4dda4473d6116",
     "url": "/img/epicsinieee.016c0485.png"
+  },
+  {
+    "revision": "6ac6eeb239a97e1b4dcc2a6393216739",
+    "url": "/img/chong-yu-zheng.6ac6eeb2.jpg"
   },
   {
     "revision": "b5c77a6aed75cdad9489effd0d5ea411",
@@ -68,6 +80,10 @@ self.__precacheManifest = [
     "url": "/img/polymer.f0624356.svg"
   },
   {
+    "revision": "d6b77280cb7af9726dfc1e2256fc83d3",
+    "url": "/img/teoh-boon-yew.d6b77280.jpg"
+  },
+  {
     "revision": "a711d8f75de4426eb710b3b8b1db5d7b",
     "url": "/img/gcp.a711d8f7.svg"
   },
@@ -76,12 +92,24 @@ self.__precacheManifest = [
     "url": "/img/handcycle.8df3426a.png"
   },
   {
+    "revision": "22686e65184ad83659fdd5e1b4d3f1f6",
+    "url": "/img/darwin-gouwanda.22686e65.jpg"
+  },
+  {
     "revision": "66757a28c6b14b937423957652b2012a",
     "url": "/img/utar.66757a28.png"
   },
   {
+    "revision": "689229b349ad3df096b4c67d92d73246",
+    "url": "/img/lee-yoot-khuan.689229b3.jpg"
+  },
+  {
     "revision": "ae731786e24bd9bb3fd6e1b45ced4c07",
     "url": "/img/ieeeembs backup.ae731786.png"
+  },
+  {
+    "revision": "dec88ea8e494803cb5db10601b019435",
+    "url": "/img/ng-peng-yee.dec88ea8.jpg"
   },
   {
     "revision": "b58324f818e1e0a17f0132dc436f265f",
@@ -92,12 +120,24 @@ self.__precacheManifest = [
     "url": "/img/contact2.c1b03809.svg"
   },
   {
+    "revision": "db4b097701cf98a23851a8292a423c2b",
+    "url": "/img/heng-yeh-tat.db4b0977.jpg"
+  },
+  {
     "revision": "d5a816ad5b18ea1be88e42db4014dd5f",
     "url": "/img/avatar.d5a816ad.png"
   },
   {
     "revision": "7ef974da3894a3fc56d3e67f04a049a2",
     "url": "/img/bg.7ef974da.svg"
+  },
+  {
+    "revision": "dc9ce2915585407f0f9d3e5c6c5955b3",
+    "url": "/img/dyckson-loo.dc9ce291.jpg"
+  },
+  {
+    "revision": "ff60b91f4b12b7168df1130a6af89cc6",
+    "url": "/img/koh-wei-lin.ff60b91f.jpg"
   },
   {
     "revision": "e79bfd88537def476913f3ed52f4f4b3",
@@ -216,6 +256,10 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
+    "revision": "c66a289ae251b33e5fa79d2cabc219b5",
+    "url": "/img/mansour-alawi.c66a289a.jpg"
+  },
+  {
     "revision": "9f75886c99f7ad70d485d9e39895c62a",
     "url": "/img/ieeeembs.9f75886c.png"
   },
@@ -224,7 +268,7 @@ self.__precacheManifest = [
     "url": "/img/firebase.1c973c35.svg"
   },
   {
-    "revision": "9ec9a5bfc2e2d03e7d072bc492343ab9",
+    "revision": "209c429197492781fd58756a95923c04",
     "url": "/index.html"
   },
   {
@@ -324,20 +368,16 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-5.png"
   },
   {
-    "revision": "022bb3a2ad54e94ff296556a824124c0",
-    "url": "/img/projects/events/event-7.png"
-  },
-  {
     "revision": "41975a8d62de8de41a4ce1ade77f1ffc",
     "url": "/img/projects/events/event-8.png"
   },
   {
-    "revision": "4e540cbf5064e1a83a38f87362d3ddae",
-    "url": "/img/projects/events/event-9-3.png"
-  },
-  {
     "revision": "4ddad9ee32fc4be87c4d208b5f33aa35",
     "url": "/img/projects/events/event-9-2.png"
+  },
+  {
+    "revision": "4e540cbf5064e1a83a38f87362d3ddae",
+    "url": "/img/projects/events/event-9-3.png"
   },
   {
     "revision": "af90bd193aaed1ab3b7564f5a9eab953",
@@ -372,6 +412,10 @@ self.__precacheManifest = [
     "url": "/img/projects/results/result-1-1.jpg"
   },
   {
+    "revision": "6abd090936f5d516ec245653cc694834",
+    "url": "/img/projects/results/result-1-2.png"
+  },
+  {
     "revision": "b8d808a40abb8a1191d06989b5aaf9cd",
     "url": "/mstile-150x150.png"
   },
@@ -392,10 +436,6 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-11-2.png"
   },
   {
-    "revision": "6abd090936f5d516ec245653cc694834",
-    "url": "/img/projects/results/result-1-2.png"
-  },
-  {
     "revision": "c40415ab7acdf3e7b95bf3f3d87fb19a",
     "url": "/img/projects/events/event-4.png"
   },
@@ -412,16 +452,16 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-7.png"
   },
   {
+    "revision": "8785ae4c0b9ee241c8e75c18dbf01b09",
+    "url": "/img/projects/prototype/prototype-8-1.png"
+  },
+  {
     "revision": "6cfafa6f018e5eaaca4ce12000f9ae0a",
     "url": "/img/projects/prototype/prototype-8-2.png"
   },
   {
-    "revision": "0cc20aa8ab1da033f0ca03747c55a590",
-    "url": "/img/projects/prototype/prototype-9.png"
-  },
-  {
-    "revision": "8785ae4c0b9ee241c8e75c18dbf01b09",
-    "url": "/img/projects/prototype/prototype-8-1.png"
+    "revision": "022bb3a2ad54e94ff296556a824124c0",
+    "url": "/img/projects/events/event-7.png"
   },
   {
     "revision": "4bb694ac4c54643e3e7fb7d98a272c80",
@@ -430,6 +470,10 @@ self.__precacheManifest = [
   {
     "revision": "d9818446c232c9656e00614c66483805",
     "url": "/img/projects/events/event-9-5.png"
+  },
+  {
+    "revision": "0cc20aa8ab1da033f0ca03747c55a590",
+    "url": "/img/projects/prototype/prototype-9.png"
   },
   {
     "revision": "5896ff1ea49c4e0b7a52b63eec1842e6",
