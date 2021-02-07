@@ -108,29 +108,29 @@ export default {
       notFoundEventFlag: false
     };
   },
-  created() {
-    fetch(
-      "https://cors-anywhere.herokuapp.com/https://api.meetup.com/" +
-        "/events?desc=true&photo-host=public&sign=true&page=4&status=past"
-    )
-      .then(data => data.json())
-      .then(res => {
-        if (res.length > 0) {
-          this.showLoader = false;
-          this.showData = true;
-          this.eventsData = res;
-        } else {
-          this.notFoundEventFlag = true;
-          this.showLoader = false;
-        }
-      })
-      .catch(e => {
-        this.showLoader = false;
-        this.errorMsg = "Issue found with " + e;
-        this.errorAlert = true;
-        this.notFoundEventFlag = true;
-      });
-  },
+  // created() {
+  //   fetch(
+  //     "https://api.meetup.com/" +
+  //       "/events?desc=true&photo-host=public&sign=true&page=4&status=past"
+  //   )
+  //     .then(data => data.json())
+  //     .then(res => {
+  //       if (res.length > 0) {
+  //         this.showLoader = false;
+  //         this.showData = true;
+  //         this.eventsData = res;
+  //       } else {
+  //         this.notFoundEventFlag = true;
+  //         this.showLoader = false;
+  //       }
+  //     })
+  //     .catch(e => {
+  //       this.showLoader = false;
+  //       this.errorMsg = "Issue found with " + e;
+  //       this.errorAlert = true;
+  //       this.notFoundEventFlag = true;
+  //     });
+  // },
   methods: {
     getCharString(data) {
       var splitArr = data.split(" ");
