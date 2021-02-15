@@ -13,7 +13,7 @@
 
 ## Getting Started
 
-This is official IEEE MySIGHT4Rehab website developed using Vue 2.
+This is an official IEEE MySIGHT4Rehab website developed for IEEE MySIGHT4Rehab project name "Development of low cost upper and lower extremities rehabilitation system with interactive feedback for children with movement disorders" using Vue 2.
 
 ## Demo
 
