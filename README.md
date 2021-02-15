@@ -13,7 +13,7 @@
 
 ## Getting Started
 
-This is a website developed for IEEE MySIGHT4Rehab.
+This is official IEEE MySIGHT4Rehab website developed using Vue 2.
 
 ## Demo
 
