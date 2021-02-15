@@ -192,10 +192,6 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-LightItalic.e8eaae90.woff2"
   },
   {
-    "revision": "13efe6cbc10b97144a28310ebdeda594",
-    "url": "/fonts/Roboto-LightItalic.13efe6cb.woff"
-  },
-  {
     "revision": "73f0a88bbca1bec19fb1303c689d04c6",
     "url": "/fonts/Roboto-Regular.73f0a88b.woff2"
   },
@@ -260,6 +256,10 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
+    "revision": "13efe6cbc10b97144a28310ebdeda594",
+    "url": "/fonts/Roboto-LightItalic.13efe6cb.woff"
+  },
+  {
     "revision": "3fafe714cfc3a1c4891addd0e22720b0",
     "url": "/img/chong-pit-nyuk.3fafe714.jpg"
   },
@@ -276,7 +276,7 @@ self.__precacheManifest = [
     "url": "/img/firebase.1c973c35.svg"
   },
   {
-    "revision": "7a6d79b9175fc4ab4fca5560f13c6501",
+    "revision": "84236bc44c5b749fb610ec174956e264",
     "url": "/index.html"
   },
   {
@@ -380,6 +380,10 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-7.png"
   },
   {
+    "revision": "41975a8d62de8de41a4ce1ade77f1ffc",
+    "url": "/img/projects/events/event-8.png"
+  },
+  {
     "revision": "4ddad9ee32fc4be87c4d208b5f33aa35",
     "url": "/img/projects/events/event-9-2.png"
   },
@@ -396,12 +400,12 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-1.png"
   },
   {
-    "revision": "aa8109c5e9a2a793b97cdf820ee1877b",
-    "url": "/img/projects/prototype/prototype-2.png"
-  },
-  {
     "revision": "92bab103a4776ea027b9836ffc8f9b05",
     "url": "/img/projects/prototype/prototype-3.png"
+  },
+  {
+    "revision": "aa8109c5e9a2a793b97cdf820ee1877b",
+    "url": "/img/projects/prototype/prototype-2.png"
   },
   {
     "revision": "a2621ed6bf38f1cec94ffdc9b0845fbe",
@@ -464,12 +468,12 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-8-1.png"
   },
   {
-    "revision": "0cc20aa8ab1da033f0ca03747c55a590",
-    "url": "/img/projects/prototype/prototype-9.png"
+    "revision": "6cfafa6f018e5eaaca4ce12000f9ae0a",
+    "url": "/img/projects/prototype/prototype-8-2.png"
   },
   {
-    "revision": "41975a8d62de8de41a4ce1ade77f1ffc",
-    "url": "/img/projects/events/event-8.png"
+    "revision": "0cc20aa8ab1da033f0ca03747c55a590",
+    "url": "/img/projects/prototype/prototype-9.png"
   },
   {
     "revision": "4bb694ac4c54643e3e7fb7d98a272c80",
@@ -478,10 +482,6 @@ self.__precacheManifest = [
   {
     "revision": "d9818446c232c9656e00614c66483805",
     "url": "/img/projects/events/event-9-5.png"
-  },
-  {
-    "revision": "6cfafa6f018e5eaaca4ce12000f9ae0a",
-    "url": "/img/projects/prototype/prototype-8-2.png"
   },
   {
     "revision": "5896ff1ea49c4e0b7a52b63eec1842e6",
