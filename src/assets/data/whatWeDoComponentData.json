@@ -1,17 +1,27 @@
 [
-    {
-        "TechName":"Google Cloud Platform",
-        "image":"gcp.svg",
-        "link":"https://cloud.google.com/"
-    },
-    {
-        "TechName":"Android",
-        "image":"android.svg",
-        "link":"https://www.android.com/"
-    },
-    {
-        "TechName":"Firebase",
-        "image":"firebase.svg",
-        "link":"https://firebase.google.com/"
-    }
+  {
+    "TechName": "Google Cloud Platform",
+    "image": "gcp.svg",
+    "link": "https://cloud.google.com/"
+  },
+  {
+    "TechName": "Android",
+    "image": "android.svg",
+    "link": "https://www.android.com/"
+  },
+  {
+    "TechName": "Firebase",
+    "image": "firebase.svg",
+    "link": "https://firebase.google.com/"
+  },
+  {
+    "TechName": "Vue.js",
+    "image": "vuejs.svg",
+    "link": "https://firebase.google.com/"
+  },
+  {
+    "TechName": "Arduino",
+    "image": "arduino.svg",
+    "link": "https://firebase.google.com/"
+  }
 ]
