@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "499872361083ae02461f",
+    "revision": "7a35f96e641ac1ed1697",
     "url": "/css/app.f4e27866.css"
   },
   {
-    "revision": "499872361083ae02461f",
-    "url": "/js/app.176584d2.js"
+    "revision": "7a35f96e641ac1ed1697",
+    "url": "/js/app.0569ebb5.js"
   },
   {
     "revision": "399069d985ce54540ae8",
@@ -70,6 +70,10 @@ self.__precacheManifest = [
   {
     "revision": "b5c77a6aed75cdad9489effd0d5ea411",
     "url": "/fonts/GoogleSans-Regular.b5c77a6a.ttf"
+  },
+  {
+    "revision": "9a45fc7689867939804c469bfcd17784",
+    "url": "/img/vuejs.9a45fc76.svg"
   },
   {
     "revision": "442f9a45b6802132669f57ce90a723df",
@@ -142,6 +146,10 @@ self.__precacheManifest = [
   {
     "revision": "ff60b91f4b12b7168df1130a6af89cc6",
     "url": "/img/koh-wei-lin.ff60b91f.jpg"
+  },
+  {
+    "revision": "d31a48540c6995b4e4b06ce7df381e31",
+    "url": "/img/arduino.d31a4854.svg"
   },
   {
     "revision": "e79bfd88537def476913f3ed52f4f4b3",
@@ -276,7 +284,7 @@ self.__precacheManifest = [
     "url": "/img/firebase.1c973c35.svg"
   },
   {
-    "revision": "12ccbcc1049c0684039d578e746efc16",
+    "revision": "fdde2bdec0a9739fc2bec1ebe2c9ccb8",
     "url": "/index.html"
   },
   {
@@ -348,10 +356,6 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-2-4.jpg"
   },
   {
-    "revision": "e3a9c489886dbb837a32799014df1520",
-    "url": "/img/projects/events/event-2-5.jpg"
-  },
-  {
     "revision": "5fce29daf242af3258bb6b85a007dc43",
     "url": "/img/projects/events/event-2-6.jpg"
   },
@@ -412,10 +416,6 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-4.png"
   },
   {
-    "revision": "1b69e50cb01c4803b5b8795805bf3104",
-    "url": "/img/projects/prototype/prototype-5.png"
-  },
-  {
     "revision": "2167327c868d5f59a76911c4e0ae46b9",
     "url": "/img/projects/prototype/prototype-6.png"
   },
@@ -456,6 +456,14 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-6.png"
   },
   {
+    "revision": "1b69e50cb01c4803b5b8795805bf3104",
+    "url": "/img/projects/prototype/prototype-5.png"
+  },
+  {
+    "revision": "e3a9c489886dbb837a32799014df1520",
+    "url": "/img/projects/events/event-2-5.jpg"
+  },
+  {
     "revision": "f05b324b96c0876fc31f8ec9552d4e92",
     "url": "/img/projects/prototype/prototype-10.png"
   },
@@ -476,15 +484,15 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-9.png"
   },
   {
-    "revision": "4bb694ac4c54643e3e7fb7d98a272c80",
-    "url": "/img/projects/events/event-9-1.png"
-  },
-  {
     "revision": "d9818446c232c9656e00614c66483805",
     "url": "/img/projects/events/event-9-5.png"
   },
   {
     "revision": "5896ff1ea49c4e0b7a52b63eec1842e6",
     "url": "/img/projects/events/event-12-4.png"
+  },
+  {
+    "revision": "4bb694ac4c54643e3e7fb7d98a272c80",
+    "url": "/img/projects/events/event-9-1.png"
   }
 ];
