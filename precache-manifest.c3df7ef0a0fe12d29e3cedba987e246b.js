@@ -176,16 +176,16 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-Thin.ad538a69.woff2"
   },
   {
-    "revision": "d3b47375afd904983d9be8d6e239a949",
-    "url": "/fonts/Roboto-Thin.d3b47375.woff"
-  },
-  {
     "revision": "5b4a33e176ff736a74f0ca2dd9e6b396",
     "url": "/fonts/Roboto-ThinItalic.5b4a33e1.woff2"
   },
   {
     "revision": "8a96edbbcd9a6991d79371aed0b0288e",
     "url": "/fonts/Roboto-ThinItalic.8a96edbb.woff"
+  },
+  {
+    "revision": "d3b47375afd904983d9be8d6e239a949",
+    "url": "/fonts/Roboto-Thin.d3b47375.woff"
   },
   {
     "revision": "d26871e8149b5759f814fd3c7a4f784b",
@@ -420,6 +420,10 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-4.png"
   },
   {
+    "revision": "1b69e50cb01c4803b5b8795805bf3104",
+    "url": "/img/projects/prototype/prototype-5.png"
+  },
+  {
     "revision": "2167327c868d5f59a76911c4e0ae46b9",
     "url": "/img/projects/prototype/prototype-6.png"
   },
@@ -478,10 +482,6 @@ self.__precacheManifest = [
   {
     "revision": "0cc20aa8ab1da033f0ca03747c55a590",
     "url": "/img/projects/prototype/prototype-9.png"
-  },
-  {
-    "revision": "1b69e50cb01c4803b5b8795805bf3104",
-    "url": "/img/projects/prototype/prototype-5.png"
   },
   {
     "revision": "4bb694ac4c54643e3e7fb7d98a272c80",
