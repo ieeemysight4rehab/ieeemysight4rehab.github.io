@@ -152,16 +152,16 @@ self.__precacheManifest = [
     "url": "/img/arduino.d31a4854.svg"
   },
   {
-    "revision": "e79bfd88537def476913f3ed52f4f4b3",
-    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
-  },
-  {
     "revision": "570eb83859dc23dd0eec423a49e147fe",
     "url": "/fonts/MaterialIcons-Regular.570eb838.woff2"
   },
   {
     "revision": "012cf6a10129e2275d79d6adac7f3b02",
     "url": "/fonts/MaterialIcons-Regular.012cf6a1.woff"
+  },
+  {
+    "revision": "e79bfd88537def476913f3ed52f4f4b3",
+    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
   },
   {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
@@ -368,12 +368,12 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-2-7.jpg"
   },
   {
-    "revision": "151a9099beade2b871cf26a94fff8999",
-    "url": "/img/projects/events/event-2-9.jpg"
-  },
-  {
     "revision": "348bed685527bac23c15940ca221fb85",
     "url": "/img/projects/events/event-2-8.jpg"
+  },
+  {
+    "revision": "151a9099beade2b871cf26a94fff8999",
+    "url": "/img/projects/events/event-2-9.jpg"
   },
   {
     "revision": "bbd4ced9cbfa7240885f60f7fd26358f",
