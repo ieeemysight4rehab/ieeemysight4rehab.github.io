@@ -152,16 +152,16 @@ self.__precacheManifest = [
     "url": "/img/arduino.d31a4854.svg"
   },
   {
+    "revision": "e79bfd88537def476913f3ed52f4f4b3",
+    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
+  },
+  {
     "revision": "570eb83859dc23dd0eec423a49e147fe",
     "url": "/fonts/MaterialIcons-Regular.570eb838.woff2"
   },
   {
     "revision": "012cf6a10129e2275d79d6adac7f3b02",
     "url": "/fonts/MaterialIcons-Regular.012cf6a1.woff"
-  },
-  {
-    "revision": "e79bfd88537def476913f3ed52f4f4b3",
-    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
   },
   {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
@@ -428,14 +428,6 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-6.png"
   },
   {
-    "revision": "abbc8180c1cf9aefdc0bbfdd131e1744",
-    "url": "/img/projects/results/result-1-1.jpg"
-  },
-  {
-    "revision": "6abd090936f5d516ec245653cc694834",
-    "url": "/img/projects/results/result-1-2.png"
-  },
-  {
     "revision": "b8d808a40abb8a1191d06989b5aaf9cd",
     "url": "/mstile-150x150.png"
   },
@@ -454,6 +446,10 @@ self.__precacheManifest = [
   {
     "revision": "0da4759d5631d1f3b0d08bf9fbaf3163",
     "url": "/img/projects/events/event-11-2.png"
+  },
+  {
+    "revision": "6abd090936f5d516ec245653cc694834",
+    "url": "/img/projects/results/result-1-2.png"
   },
   {
     "revision": "c40415ab7acdf3e7b95bf3f3d87fb19a",
@@ -476,16 +472,16 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-8-1.png"
   },
   {
-    "revision": "6cfafa6f018e5eaaca4ce12000f9ae0a",
-    "url": "/img/projects/prototype/prototype-8-2.png"
-  },
-  {
     "revision": "0cc20aa8ab1da033f0ca03747c55a590",
     "url": "/img/projects/prototype/prototype-9.png"
   },
   {
-    "revision": "4bb694ac4c54643e3e7fb7d98a272c80",
-    "url": "/img/projects/events/event-9-1.png"
+    "revision": "abbc8180c1cf9aefdc0bbfdd131e1744",
+    "url": "/img/projects/results/result-1-1.jpg"
+  },
+  {
+    "revision": "6cfafa6f018e5eaaca4ce12000f9ae0a",
+    "url": "/img/projects/prototype/prototype-8-2.png"
   },
   {
     "revision": "d9818446c232c9656e00614c66483805",
@@ -494,5 +490,9 @@ self.__precacheManifest = [
   {
     "revision": "5896ff1ea49c4e0b7a52b63eec1842e6",
     "url": "/img/projects/events/event-12-4.png"
+  },
+  {
+    "revision": "4bb694ac4c54643e3e7fb7d98a272c80",
+    "url": "/img/projects/events/event-9-1.png"
   }
 ];
