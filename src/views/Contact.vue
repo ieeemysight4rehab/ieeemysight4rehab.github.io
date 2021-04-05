@@ -25,7 +25,12 @@
           </p>
 
           <p class="google-font mb-0" style="font-size:120%">
-            If you’re interested in contributing <b>{{ChapterDetails.ChapterName}}</b>, kindly contact Mr. Chong Yu Zheng (<a style="color:#1565C0;text-decoration: none;" :href="`mailto:${ChapterDetails.ChapterEmail}`">{{ChapterDetails.ChapterEmail}}</a>) for more opportunities.
+            If you’re interested in contributing <b>{{ ChapterDetails.ChapterName }}</b
+            >, kindly contact Mr. Chong Yu Zheng (<a
+              style="color:#1565C0;text-decoration: none;"
+              :href="`mailto:${ChapterDetails.ChapterEmail}`"
+              >{{ ChapterDetails.ChapterEmail }}</a
+            >) for more opportunities.
           </p>
           <br />
           <div class="google-maps">
