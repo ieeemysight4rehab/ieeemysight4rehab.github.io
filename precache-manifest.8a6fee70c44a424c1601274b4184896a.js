@@ -460,20 +460,12 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-4.png"
   },
   {
-    "revision": "363dfd538079599dc550264a1ff37366",
-    "url": "/img/projects/events/event-6.png"
-  },
-  {
     "revision": "f05b324b96c0876fc31f8ec9552d4e92",
     "url": "/img/projects/prototype/prototype-10.png"
   },
   {
     "revision": "99aa7d27ac285d89aca7077ec0576d9a",
     "url": "/img/projects/prototype/prototype-7.png"
-  },
-  {
-    "revision": "8785ae4c0b9ee241c8e75c18dbf01b09",
-    "url": "/img/projects/prototype/prototype-8-1.png"
   },
   {
     "revision": "6cfafa6f018e5eaaca4ce12000f9ae0a",
@@ -490,6 +482,14 @@ self.__precacheManifest = [
   {
     "revision": "d9818446c232c9656e00614c66483805",
     "url": "/img/projects/events/event-9-5.png"
+  },
+  {
+    "revision": "363dfd538079599dc550264a1ff37366",
+    "url": "/img/projects/events/event-6.png"
+  },
+  {
+    "revision": "8785ae4c0b9ee241c8e75c18dbf01b09",
+    "url": "/img/projects/prototype/prototype-8-1.png"
   },
   {
     "revision": "5896ff1ea49c4e0b7a52b63eec1842e6",
