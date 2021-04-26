@@ -196,10 +196,6 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-Light.c73eb1ce.woff"
   },
   {
-    "revision": "e8eaae902c3a4dacb9a5062667e10576",
-    "url": "/fonts/Roboto-LightItalic.e8eaae90.woff2"
-  },
-  {
     "revision": "13efe6cbc10b97144a28310ebdeda594",
     "url": "/fonts/Roboto-LightItalic.13efe6cb.woff"
   },
@@ -268,6 +264,10 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
+    "revision": "e8eaae902c3a4dacb9a5062667e10576",
+    "url": "/fonts/Roboto-LightItalic.e8eaae90.woff2"
+  },
+  {
     "revision": "3fafe714cfc3a1c4891addd0e22720b0",
     "url": "/img/chong-pit-nyuk.3fafe714.jpg"
   },
@@ -288,12 +288,12 @@ self.__precacheManifest = [
     "url": "/index.html"
   },
   {
-    "revision": "0817d69c5198a01f2555961c2bb2e48f",
-    "url": "/apple-touch-icon.png"
-  },
-  {
     "revision": "061f63e8fbf1d2fe82cd8bf4d46f0a0c",
     "url": "/browserconfig.xml"
+  },
+  {
+    "revision": "0817d69c5198a01f2555961c2bb2e48f",
+    "url": "/apple-touch-icon.png"
   },
   {
     "revision": "6b60e395572c2b5bfec12bae48706965",
@@ -408,10 +408,6 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-1.png"
   },
   {
-    "revision": "aa8109c5e9a2a793b97cdf820ee1877b",
-    "url": "/img/projects/prototype/prototype-2.png"
-  },
-  {
     "revision": "92bab103a4776ea027b9836ffc8f9b05",
     "url": "/img/projects/prototype/prototype-3.png"
   },
@@ -420,20 +416,20 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-4.png"
   },
   {
-    "revision": "1b69e50cb01c4803b5b8795805bf3104",
-    "url": "/img/projects/prototype/prototype-5.png"
+    "revision": "aa8109c5e9a2a793b97cdf820ee1877b",
+    "url": "/img/projects/prototype/prototype-2.png"
   },
   {
     "revision": "2167327c868d5f59a76911c4e0ae46b9",
     "url": "/img/projects/prototype/prototype-6.png"
   },
   {
-    "revision": "abbc8180c1cf9aefdc0bbfdd131e1744",
-    "url": "/img/projects/results/result-1-1.jpg"
+    "revision": "1b69e50cb01c4803b5b8795805bf3104",
+    "url": "/img/projects/prototype/prototype-5.png"
   },
   {
-    "revision": "6abd090936f5d516ec245653cc694834",
-    "url": "/img/projects/results/result-1-2.png"
+    "revision": "abbc8180c1cf9aefdc0bbfdd131e1744",
+    "url": "/img/projects/results/result-1-1.jpg"
   },
   {
     "revision": "b8d808a40abb8a1191d06989b5aaf9cd",
@@ -442,6 +438,10 @@ self.__precacheManifest = [
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "6abd090936f5d516ec245653cc694834",
+    "url": "/img/projects/results/result-1-2.png"
   },
   {
     "revision": "02744c67a725024d9a966fe3e26c6347",
@@ -460,12 +460,20 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-4.png"
   },
   {
+    "revision": "363dfd538079599dc550264a1ff37366",
+    "url": "/img/projects/events/event-6.png"
+  },
+  {
     "revision": "f05b324b96c0876fc31f8ec9552d4e92",
     "url": "/img/projects/prototype/prototype-10.png"
   },
   {
     "revision": "99aa7d27ac285d89aca7077ec0576d9a",
     "url": "/img/projects/prototype/prototype-7.png"
+  },
+  {
+    "revision": "8785ae4c0b9ee241c8e75c18dbf01b09",
+    "url": "/img/projects/prototype/prototype-8-1.png"
   },
   {
     "revision": "6cfafa6f018e5eaaca4ce12000f9ae0a",
@@ -482,14 +490,6 @@ self.__precacheManifest = [
   {
     "revision": "d9818446c232c9656e00614c66483805",
     "url": "/img/projects/events/event-9-5.png"
-  },
-  {
-    "revision": "363dfd538079599dc550264a1ff37366",
-    "url": "/img/projects/events/event-6.png"
-  },
-  {
-    "revision": "8785ae4c0b9ee241c8e75c18dbf01b09",
-    "url": "/img/projects/prototype/prototype-8-1.png"
   },
   {
     "revision": "5896ff1ea49c4e0b7a52b63eec1842e6",
