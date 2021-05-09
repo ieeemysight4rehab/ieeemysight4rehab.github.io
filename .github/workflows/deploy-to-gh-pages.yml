@@ -61,6 +61,14 @@ jobs:
         run: |
           npm run build
 
+      - name: Copy index.html And Rename To 404.html In dist folder 🔧
+        run: |
+          sudo ls -la
+          cd dist
+          cp index.html 404.html
+          sudo ls -la
+          cd ..
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.6.2
         with:
