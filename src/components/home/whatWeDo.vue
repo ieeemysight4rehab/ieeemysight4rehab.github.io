@@ -11,7 +11,7 @@
                     <v-tooltip bottom>
                         <template v-slot:activator="{ on }" >
                             <a :href="item.link" target="_blank" flat class="ma-0">
-                                <img :src="getImgUrl(item.image)" width="30vh" alt="" srcset="" dark v-on="on">
+                                <img :src="getImgUrl(item.image)" height="30vh" alt="" srcset="" dark v-on="on">
                             </a> 
                             &nbsp;&nbsp;&nbsp;
                         </template>
