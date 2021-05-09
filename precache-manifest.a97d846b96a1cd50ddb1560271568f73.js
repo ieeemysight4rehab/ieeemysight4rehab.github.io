@@ -152,10 +152,6 @@ self.__precacheManifest = [
     "url": "/img/arduino.d31a4854.svg"
   },
   {
-    "revision": "e79bfd88537def476913f3ed52f4f4b3",
-    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
-  },
-  {
     "revision": "570eb83859dc23dd0eec423a49e147fe",
     "url": "/fonts/MaterialIcons-Regular.570eb838.woff2"
   },
@@ -166,6 +162,10 @@ self.__precacheManifest = [
   {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
     "url": "/fonts/MaterialIcons-Regular.a37b0c01.ttf"
+  },
+  {
+    "revision": "e79bfd88537def476913f3ed52f4f4b3",
+    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
   },
   {
     "revision": "14ed07e698c69df6da8744861c0ef7cd",
@@ -194,6 +194,10 @@ self.__precacheManifest = [
   {
     "revision": "c73eb1ceba3321a80a0aff13ad373cb4",
     "url": "/fonts/Roboto-Light.c73eb1ce.woff"
+  },
+  {
+    "revision": "e8eaae902c3a4dacb9a5062667e10576",
+    "url": "/fonts/Roboto-LightItalic.e8eaae90.woff2"
   },
   {
     "revision": "13efe6cbc10b97144a28310ebdeda594",
@@ -264,10 +268,6 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
-    "revision": "e8eaae902c3a4dacb9a5062667e10576",
-    "url": "/fonts/Roboto-LightItalic.e8eaae90.woff2"
-  },
-  {
     "revision": "3fafe714cfc3a1c4891addd0e22720b0",
     "url": "/img/chong-pit-nyuk.3fafe714.jpg"
   },
@@ -288,12 +288,12 @@ self.__precacheManifest = [
     "url": "/index.html"
   },
   {
-    "revision": "061f63e8fbf1d2fe82cd8bf4d46f0a0c",
-    "url": "/browserconfig.xml"
-  },
-  {
     "revision": "0817d69c5198a01f2555961c2bb2e48f",
     "url": "/apple-touch-icon.png"
+  },
+  {
+    "revision": "061f63e8fbf1d2fe82cd8bf4d46f0a0c",
+    "url": "/browserconfig.xml"
   },
   {
     "revision": "6b60e395572c2b5bfec12bae48706965",
@@ -356,10 +356,6 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-2-4.jpg"
   },
   {
-    "revision": "e3a9c489886dbb837a32799014df1520",
-    "url": "/img/projects/events/event-2-5.jpg"
-  },
-  {
     "revision": "5fce29daf242af3258bb6b85a007dc43",
     "url": "/img/projects/events/event-2-6.jpg"
   },
@@ -404,8 +400,8 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-9-4.png"
   },
   {
-    "revision": "af693a762e320d975fe4780b95a50364",
-    "url": "/img/projects/prototype/prototype-1.png"
+    "revision": "aa8109c5e9a2a793b97cdf820ee1877b",
+    "url": "/img/projects/prototype/prototype-2.png"
   },
   {
     "revision": "92bab103a4776ea027b9836ffc8f9b05",
@@ -416,20 +412,20 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-4.png"
   },
   {
-    "revision": "aa8109c5e9a2a793b97cdf820ee1877b",
-    "url": "/img/projects/prototype/prototype-2.png"
+    "revision": "1b69e50cb01c4803b5b8795805bf3104",
+    "url": "/img/projects/prototype/prototype-5.png"
   },
   {
     "revision": "2167327c868d5f59a76911c4e0ae46b9",
     "url": "/img/projects/prototype/prototype-6.png"
   },
   {
-    "revision": "1b69e50cb01c4803b5b8795805bf3104",
-    "url": "/img/projects/prototype/prototype-5.png"
-  },
-  {
     "revision": "abbc8180c1cf9aefdc0bbfdd131e1744",
     "url": "/img/projects/results/result-1-1.jpg"
+  },
+  {
+    "revision": "6abd090936f5d516ec245653cc694834",
+    "url": "/img/projects/results/result-1-2.png"
   },
   {
     "revision": "b8d808a40abb8a1191d06989b5aaf9cd",
@@ -438,10 +434,6 @@ self.__precacheManifest = [
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
-  },
-  {
-    "revision": "6abd090936f5d516ec245653cc694834",
-    "url": "/img/projects/results/result-1-2.png"
   },
   {
     "revision": "02744c67a725024d9a966fe3e26c6347",
@@ -484,12 +476,20 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-9.png"
   },
   {
-    "revision": "4bb694ac4c54643e3e7fb7d98a272c80",
-    "url": "/img/projects/events/event-9-1.png"
+    "revision": "e3a9c489886dbb837a32799014df1520",
+    "url": "/img/projects/events/event-2-5.jpg"
+  },
+  {
+    "revision": "af693a762e320d975fe4780b95a50364",
+    "url": "/img/projects/prototype/prototype-1.png"
   },
   {
     "revision": "d9818446c232c9656e00614c66483805",
     "url": "/img/projects/events/event-9-5.png"
+  },
+  {
+    "revision": "4bb694ac4c54643e3e7fb7d98a272c80",
+    "url": "/img/projects/events/event-9-1.png"
   },
   {
     "revision": "5896ff1ea49c4e0b7a52b63eec1842e6",
