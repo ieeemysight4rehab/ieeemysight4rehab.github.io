@@ -17,11 +17,11 @@
   {
     "TechName": "Vue.js",
     "image": "vuejs.svg",
-    "link": "https://firebase.google.com/"
+    "link": "https://vuejs.org/"
   },
   {
     "TechName": "Arduino",
     "image": "arduino.svg",
-    "link": "https://firebase.google.com/"
+    "link": "https://www.arduino.cc/"
   }
 ]

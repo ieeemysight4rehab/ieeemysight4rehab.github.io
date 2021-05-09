@@ -61,7 +61,7 @@ jobs:
         run: |
           npm run build
 
-      - name: Copy index.html And Rename To 404.html In dist folder 🔧
+      - name: Copy index.html And Rename To 404.html Into dist folder 🔧
         run: |
           sudo ls -la
           cd dist
