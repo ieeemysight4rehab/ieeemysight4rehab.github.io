@@ -12,7 +12,7 @@
         <p class="google-font my-2" style="font-size:110%">General Partners</p>
 
         <v-layout row wrap class="transparent">
-          <v-flex xs12 sm7 class="elevation-0 transparent">
+          <v-flex xs12 sm7 md12 lg12 xl12 class="elevation-0 transparent">
             <v-card class="elevation-0 pa-0 ma-0 transparent">
               <v-container grid-list-sm fluid class="pa-0 ma-0">
                 <v-layout row wrap class="ma-0 pa-0">
