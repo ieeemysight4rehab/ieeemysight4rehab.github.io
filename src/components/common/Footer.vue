@@ -65,6 +65,17 @@
             <v-toolbar-title class="google-font pl-0 ml-0 mr-3" style="font-size:100%">{{
               FooterData.FooterEndSession[0].LinkName
             }}</v-toolbar-title>
+            <v-spacer></v-spacer>
+            <img
+              src="../../../public/img/icons/bersama-hentikan-wabak-covid-19.png"
+              alt="Bersama Hentikan Wabak Covid-19"
+              style="height:50px;"
+            />
+            <img
+              src="../../../public/img/icons/lindungi-diri-lindungi-semua.png"
+              alt="Lindungi Diri Lindungi Semua"
+              style="height:50px;"
+            />
           </v-toolbar>
         </v-flex>
       </v-layout>
