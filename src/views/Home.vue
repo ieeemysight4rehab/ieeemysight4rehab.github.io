@@ -24,13 +24,13 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid class="py-5" style="background-color:#F9F9F9">
+    <!-- <v-container fluid class="py-5" style="background-color:#F9F9F9">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
           <eventshowcase />
         </v-flex>
       </v-layout>
-    </v-container>
+    </v-container> -->
 
     <v-container fluid>
       <v-layout wrap align-center justify-center row fill-height>
@@ -46,7 +46,7 @@
 import HomeStartScreen from '@/components/home/HomeStartScreen'
 import whatWeDo from '@/components/home/whatWeDo'
 import aboutIEEEMySIGHT4RehabChapter from '@/components/home/aboutIEEEMySIGHT4RehabChapter'
-import eventshowcase from '@/components/home/eventshowcase'
+// import eventshowcase from '@/components/home/eventshowcase'
 import partners from '@/components/home/partners'
 
 export default {
@@ -54,7 +54,7 @@ export default {
     HomeStartScreen,
     whatWeDo,
     aboutIEEEMySIGHT4RehabChapter,
-    eventshowcase,
+    // eventshowcase,
     partners,
   },
 }
