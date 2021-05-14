@@ -33,6 +33,7 @@
             v-if="item.twitter.length > 0"
             :href="item.twitter"
             target="_blank"
+            rel="noopener"
           >
             <v-icon small style="color:#1da1f2">fab fa-twitter</v-icon>
           </v-btn>
@@ -43,6 +44,7 @@
             v-if="item.linkedin.length > 0"
             :href="item.linkedin"
             target="_blank"
+            rel="noopener"
           >
             <v-icon small style="color:#0077b5">fab fa-linkedin-in</v-icon>
           </v-btn>
@@ -53,6 +55,7 @@
             v-if="item.github.length > 0"
             :href="item.github"
             target="_blank"
+            rel="noopener"
           >
             <v-icon small style="color:#333">fab fa-github</v-icon>
           </v-btn>
@@ -62,6 +65,7 @@
             v-if="item.website.length > 0"
             :href="item.website"
             target="_blank"
+            rel="noopener"
           >
             <v-icon style="color:#333">link</v-icon>
           </v-btn>

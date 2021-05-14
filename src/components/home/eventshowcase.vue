@@ -79,7 +79,7 @@
 
               <v-list-tile-action>
                 <v-tooltip bottom>
-                  <v-btn icon ripple :href="item.link" target="_blank" slot="activator">
+                  <v-btn icon ripple :href="item.link" target="_blank" rel="noopener" slot="activator">
                     <v-icon color="grey darken-1">info</v-icon>
                   </v-btn>
 

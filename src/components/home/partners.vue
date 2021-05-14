@@ -32,7 +32,7 @@
                       class="d-flex pa-2 ma-1 elevation-1"
                       style="border-radius:4px;border-width: 0px; border-style: solid;"
                     >
-                      <a v-bind:href="itemp.link" target="_blank">
+                      <a v-bind:href="itemp.link" target="_blank" rel="noopener">
                         <v-tooltip bottom>
                           <template v-slot:activator="{ on }">
                             <v-img
