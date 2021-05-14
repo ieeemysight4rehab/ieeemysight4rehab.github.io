@@ -20,7 +20,6 @@
           <v-divider></v-divider>
         </v-flex>
       </v-layout>
-
       <v-layout wrap justify-center row>
         <v-flex xs12 md10 lg10>
           <v-layout wrap align-start justify-start row class="my-2">
@@ -36,7 +35,6 @@
                 ><br />
               </div>
             </v-flex>
-
             <v-flex xs12 md3 sm4 lg3 class="py-2">
               <p class="google-font mb-0" style="font-size: 140%;font-weight: 300;">
                 <b>Exteral Links</b>
