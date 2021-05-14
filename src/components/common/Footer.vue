@@ -65,15 +65,6 @@
             <v-toolbar-title class="google-font pl-0 ml-0 mr-3" style="font-size:100%">{{
               FooterData.FooterEndSession[0].LinkName
             }}</v-toolbar-title>
-            <!-- <v-btn
-              v-for="(item, i) in FooterData.FooterEndSession"
-              :key="i"
-              class="ml-0 google-font hidden-sm-and-down"
-              style="text-transform: capitalize;font-size:110%"
-              flat
-            >
-              {{ item.LinkName }}
-            </v-btn> -->
           </v-toolbar>
         </v-flex>
       </v-layout>
