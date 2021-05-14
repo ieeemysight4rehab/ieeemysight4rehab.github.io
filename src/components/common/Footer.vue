@@ -10,7 +10,7 @@
             Follow Us:
             <span v-for="(item, i) in ChapterDetails.socialLinks" :key="i">
               <v-tooltip top>
-                <v-btn flat icon :href="item.link" target="_blank" slot="activator">
+                <v-btn flat icon :href="item.link" target="_blank" rel="noopener" slot="activator">
                   <v-icon>{{ item.icon }}</v-icon>
                 </v-btn>
                 <span>{{ item.name }}</span>
@@ -30,6 +30,7 @@
                   :href="item.Link"
                   class="google-font"
                   target="_blank"
+                  rel="noopener"
                   style="color: #3E4551;text-decoration: none;font-size:110%"
                   >{{ item.LinkName }}</a
                 ><br />

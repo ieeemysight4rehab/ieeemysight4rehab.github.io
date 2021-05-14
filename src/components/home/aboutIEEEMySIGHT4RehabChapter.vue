@@ -6,11 +6,11 @@
                <p class="google-font" style="font-size:110%">
                    {{chapterDetails.ChapterLongDescription}}
                </p>
-               <v-btn :href="chapterDetails.socialLinks[0].link" target="_blank" outline color="white" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;">Facebook Page</v-btn>
+               <v-btn :href="chapterDetails.socialLinks[0].link" target="_blank" rel="noopener" outline color="white" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;">Facebook Page</v-btn>
                &nbsp;
-               <v-btn :href="chapterDetails.socialLinks[1].link" target="_blank" outline color="white" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;">Google Sites Page</v-btn>
+               <v-btn :href="chapterDetails.socialLinks[1].link" target="_blank" rel="noopener" outline color="white" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;">Google Sites Page</v-btn>
                &nbsp;
-               <v-btn :href="chapterDetails.socialLinks[2].link" target="_blank" outline color="white" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;">GitHub Page</v-btn>
+               <v-btn :href="chapterDetails.socialLinks[2].link" target="_blank" rel="noopener" outline color="white" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;">GitHub Page</v-btn>
                <br>
                <br>
                <router-link to="/about" class="google-font" style="text-decoration:none;color:white">See More about {{chapterDetails.ChapterName}}</router-link>

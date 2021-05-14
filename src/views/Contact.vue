@@ -16,7 +16,7 @@
           <p class="google-font mt-0 ml-0" style="font-size:130%">
             <span v-for="(item, i) in ChapterDetails.socialLinks" :key="i">
               <v-tooltip bottom>
-                <v-btn flat icon :href="item.link" target="_blank" slot="activator">
+                <v-btn flat icon :href="item.link" target="_blank" rel="noopener" slot="activator">
                   <v-icon>{{ item.icon }}</v-icon>
                 </v-btn>
                 <span>{{ item.name }}</span>
