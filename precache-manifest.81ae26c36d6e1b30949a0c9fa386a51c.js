@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bcca9851cc695c90df28",
+    "revision": "0b1b9e5cd7c1356ecb46",
     "url": "/css/app.f4e27866.css"
   },
   {
-    "revision": "bcca9851cc695c90df28",
-    "url": "/js/app.0d41284c.js"
+    "revision": "0b1b9e5cd7c1356ecb46",
+    "url": "/js/app.447cab68.js"
   },
   {
     "revision": "907115db12ad1dab3aca",
@@ -60,6 +60,10 @@ self.__precacheManifest = [
     "url": "/img/alpha-agape.ccf2b8fc.jpg"
   },
   {
+    "revision": "af09efbbfc67f2a427efc0df5849ccbd",
+    "url": "/img/bersama-hentikan-wabak-covid-19.af09efbb.png"
+  },
+  {
     "revision": "d36991e83d426e7e98840c9f5ee1f6bb",
     "url": "/img/chong-yu-zheng.d36991e8.jpg"
   },
@@ -74,6 +78,10 @@ self.__precacheManifest = [
   {
     "revision": "c334dcfc5e679a77779f3ed4564f2bf6",
     "url": "/img/logo.c334dcfc.png"
+  },
+  {
+    "revision": "972f12da1c7a0d7579c94f6bc057b98b",
+    "url": "/img/lindungi-diri-lindungi-semua.972f12da.png"
   },
   {
     "revision": "fc3b34bef7bf02e02914cdbcdc9e51c0",
@@ -136,16 +144,16 @@ self.__precacheManifest = [
     "url": "/img/arduino.5d494ef2.svg"
   },
   {
-    "revision": "e79bfd88537def476913f3ed52f4f4b3",
-    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
-  },
-  {
     "revision": "570eb83859dc23dd0eec423a49e147fe",
     "url": "/fonts/MaterialIcons-Regular.570eb838.woff2"
   },
   {
     "revision": "012cf6a10129e2275d79d6adac7f3b02",
     "url": "/fonts/MaterialIcons-Regular.012cf6a1.woff"
+  },
+  {
+    "revision": "e79bfd88537def476913f3ed52f4f4b3",
+    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
   },
   {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
@@ -264,7 +272,7 @@ self.__precacheManifest = [
     "url": "/img/firebase.de340e2a.svg"
   },
   {
-    "revision": "67a1cb7d103ba140fac512eb930e26e6",
+    "revision": "5d691b81f6ed8326f0cb9f04a8afd78d",
     "url": "/index.html"
   },
   {
