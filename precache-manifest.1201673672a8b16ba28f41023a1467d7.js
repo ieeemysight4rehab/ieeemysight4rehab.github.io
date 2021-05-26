@@ -408,6 +408,10 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-9-1.png"
   },
   {
+    "revision": "5176aec4d8715d6d70259500912733f0",
+    "url": "/img/projects/events/event-9-2.png"
+  },
+  {
     "revision": "b032766a3ac407de31eab0101a939fd4",
     "url": "/img/projects/events/event-9-3.png"
   },
@@ -478,9 +482,5 @@ self.__precacheManifest = [
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
-  },
-  {
-    "revision": "5176aec4d8715d6d70259500912733f0",
-    "url": "/img/projects/events/event-9-2.png"
   }
 ];
