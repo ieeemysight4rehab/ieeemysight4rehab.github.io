@@ -472,12 +472,12 @@ self.__precacheManifest = [
     "url": "/img/projects/results/result-1-1.jpg"
   },
   {
-    "revision": "2a5d4aff1edfba03f15f3a57ac0aa395",
-    "url": "/img/projects/results/result-1-2.png"
-  },
-  {
     "revision": "b8d808a40abb8a1191d06989b5aaf9cd",
     "url": "/mstile-150x150.png"
+  },
+  {
+    "revision": "2a5d4aff1edfba03f15f3a57ac0aa395",
+    "url": "/img/projects/results/result-1-2.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
