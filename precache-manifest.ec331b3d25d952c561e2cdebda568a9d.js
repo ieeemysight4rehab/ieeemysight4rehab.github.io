@@ -380,12 +380,12 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-2-9.jpg"
   },
   {
-    "revision": "53216aa434cbe00e2a631caf02b11b5e",
-    "url": "/img/projects/events/event-4.png"
-  },
-  {
     "revision": "22b0602bdea5861835770f913d5893da",
     "url": "/img/projects/events/event-3.png"
+  },
+  {
+    "revision": "53216aa434cbe00e2a631caf02b11b5e",
+    "url": "/img/projects/events/event-4.png"
   },
   {
     "revision": "381a879c8b50492f454a1b2937f9de70",
