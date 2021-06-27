@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "618b70ce138d558525c2",
+    "revision": "4cf958214abd03930e79",
     "url": "/css/app.a7ed7e9b.css"
   },
   {
-    "revision": "618b70ce138d558525c2",
-    "url": "/js/app.fb5fa7c2.js"
+    "revision": "4cf958214abd03930e79",
+    "url": "/js/app.fbc3b2ce.js"
   },
   {
     "revision": "be7ce37ca11a58512004",
@@ -80,6 +80,10 @@ self.__precacheManifest = [
     "url": "/img/logo.c334dcfc.png"
   },
   {
+    "revision": "eb0621aeb366cf3821abd9e9edef40cb",
+    "url": "/img/kita-jaga-kita.eb0621ae.png"
+  },
+  {
     "revision": "972f12da1c7a0d7579c94f6bc057b98b",
     "url": "/img/lindungi-diri-lindungi-semua.972f12da.png"
   },
@@ -148,12 +152,12 @@ self.__precacheManifest = [
     "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
   },
   {
-    "revision": "570eb83859dc23dd0eec423a49e147fe",
-    "url": "/fonts/MaterialIcons-Regular.570eb838.woff2"
-  },
-  {
     "revision": "012cf6a10129e2275d79d6adac7f3b02",
     "url": "/fonts/MaterialIcons-Regular.012cf6a1.woff"
+  },
+  {
+    "revision": "570eb83859dc23dd0eec423a49e147fe",
+    "url": "/fonts/MaterialIcons-Regular.570eb838.woff2"
   },
   {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
@@ -192,12 +196,12 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-LightItalic.e8eaae90.woff2"
   },
   {
-    "revision": "13efe6cbc10b97144a28310ebdeda594",
-    "url": "/fonts/Roboto-LightItalic.13efe6cb.woff"
-  },
-  {
     "revision": "73f0a88bbca1bec19fb1303c689d04c6",
     "url": "/fonts/Roboto-Regular.73f0a88b.woff2"
+  },
+  {
+    "revision": "13efe6cbc10b97144a28310ebdeda594",
+    "url": "/fonts/Roboto-LightItalic.13efe6cb.woff"
   },
   {
     "revision": "35b07eb2f8711ae08d1f58c043880930",
@@ -272,7 +276,7 @@ self.__precacheManifest = [
     "url": "/img/firebase.de340e2a.svg"
   },
   {
-    "revision": "aa6f1a5c15c42c86c0b22842d48bf2f7",
+    "revision": "d5e4546ff287dd2c6f5d7d4a4acbd82a",
     "url": "/index.html"
   },
   {
