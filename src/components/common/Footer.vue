@@ -75,6 +75,11 @@
               alt="Lindungi Diri Lindungi Semua"
               style="height:50px;"
             />
+            <img
+              src="../../../public/img/icons/kita-jaga-kita.png"
+              alt="Kita Jaga Kita"
+              style="height:50px;"
+            />
           </v-toolbar>
         </v-flex>
       </v-layout>
