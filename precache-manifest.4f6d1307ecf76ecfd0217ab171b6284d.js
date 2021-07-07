@@ -152,12 +152,12 @@ self.__precacheManifest = [
     "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
   },
   {
-    "revision": "012cf6a10129e2275d79d6adac7f3b02",
-    "url": "/fonts/MaterialIcons-Regular.012cf6a1.woff"
-  },
-  {
     "revision": "570eb83859dc23dd0eec423a49e147fe",
     "url": "/fonts/MaterialIcons-Regular.570eb838.woff2"
+  },
+  {
+    "revision": "012cf6a10129e2275d79d6adac7f3b02",
+    "url": "/fonts/MaterialIcons-Regular.012cf6a1.woff"
   },
   {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
@@ -196,12 +196,12 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-LightItalic.e8eaae90.woff2"
   },
   {
-    "revision": "73f0a88bbca1bec19fb1303c689d04c6",
-    "url": "/fonts/Roboto-Regular.73f0a88b.woff2"
-  },
-  {
     "revision": "13efe6cbc10b97144a28310ebdeda594",
     "url": "/fonts/Roboto-LightItalic.13efe6cb.woff"
+  },
+  {
+    "revision": "73f0a88bbca1bec19fb1303c689d04c6",
+    "url": "/fonts/Roboto-Regular.73f0a88b.woff2"
   },
   {
     "revision": "35b07eb2f8711ae08d1f58c043880930",
