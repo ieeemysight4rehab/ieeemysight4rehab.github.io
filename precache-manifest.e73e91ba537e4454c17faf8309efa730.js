@@ -468,6 +468,10 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-8-2.png"
   },
   {
+    "revision": "d47963d6cfae17fde39f81bcbe9f8755",
+    "url": "/img/projects/prototype/prototype-9.png"
+  },
+  {
     "revision": "924c976481e1e9f2c173840abc758fe4",
     "url": "/img/projects/results/result-1-1.jpg"
   },
@@ -482,9 +486,5 @@ self.__precacheManifest = [
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
-  },
-  {
-    "revision": "d47963d6cfae17fde39f81bcbe9f8755",
-    "url": "/img/projects/prototype/prototype-9.png"
   }
 ];
