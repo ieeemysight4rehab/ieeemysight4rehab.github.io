@@ -3,6 +3,7 @@ node_modules/**
 dist/**
 tempKey.js
 src/config/
+package-lock.json
 
 # Code Coverage
 coverage
