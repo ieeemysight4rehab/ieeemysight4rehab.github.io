@@ -54,6 +54,73 @@
             </div>
             <br />
             <li class="google-font mb-0" style="font-size:120%">
+              Project team second site visit to
+              <a
+                href="https://www.facebook.com/PersatuanInsanIstimewaCherasSelangor/"
+                target="_blank"
+                rel="noopener noreferrer"
+                style="text-decoration:none"
+                >Persatuan Insan Istimewa Cheras Selangor (PIICS)</a
+              >, a NGO located at Kajang, Selangor that adopted 40 underprivileged person ages between 7 to 46 years old, in conjunction
+              with
+              <a
+                href="https://www.facebook.com/IEEE-EMBS-UTAR-Student-Club-1676375012650129"
+                target="_blank"
+                rel="noopener noreferrer"
+                style="text-decoration:none"
+                >IEEE EMBS UTAR Student Club</a
+              >
+              on June 2016.
+            </li>
+            <br />
+            <div id="lingallery">
+              <lingallery
+                :iid.sync="currentId"
+                :width="600"
+                :height="500"
+                :responsive="true"
+                :showThumbnails="false"
+                :items="[
+                  {
+                    id: 'PIICS',
+                    src: 'img/projects/events/event-13-1.jpg',
+                    thumbnail: 'img/projects/events/event-13-1.jpg',
+                    alt: 'Site Visit To PIICS, Kajang, Selangor',
+                    caption: 'Site Visit To PIICS, Kajang, Selangor',
+                  },
+                  {
+                    id: 'PIICS',
+                    src: 'img/projects/events/event-13-2.jpg',
+                    thumbnail: 'img/projects/events/event-13-2.jpg',
+                    alt: 'Photo With Underprivileged Children',
+                    caption: 'Photo With Underprivileged Children',
+                  },
+                  {
+                    id: 'PIICS',
+                    src: 'img/projects/events/event-13-3.jpg',
+                    thumbnail: 'img/projects/events/event-13-3.jpg',
+                    alt: 'Interaction With Underprivileged Children',
+                    caption: 'Interaction With Underprivileged Children',
+                  },
+                  {
+                    id: 'PIICS',
+                    src: 'img/projects/events/event-13-4.jpg',
+                    thumbnail: 'img/projects/events/event-13-4.jpg',
+                    alt: 'Rehabilitation Equipments Used By PIICS',
+                    caption: 'Rehabilitation Equipments Used By PIICS',
+                  },
+                  {
+                    id: 'PIICS',
+                    src: 'img/projects/events/event-13-5.jpg',
+                    thumbnail: 'img/projects/events/event-13-5.jpg',
+                    alt: 'Rehabilitation Equipments Used By PIICS',
+                    caption: 'Rehabilitation Equipments Used By PIICS',
+                  }
+                ]"
+              />
+            </div>
+            <br />
+            <li class="google-font mb-0" style="font-size:120%">
               Two (2) teams from
               <a
                 href="https://www.utar.edu.my/"
