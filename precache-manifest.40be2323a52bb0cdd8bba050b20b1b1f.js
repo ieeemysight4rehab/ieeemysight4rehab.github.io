@@ -284,12 +284,12 @@ self.__precacheManifest = [
     "url": "/apple-touch-icon.png"
   },
   {
-    "revision": "061f63e8fbf1d2fe82cd8bf4d46f0a0c",
-    "url": "/browserconfig.xml"
-  },
-  {
     "revision": "6b60e395572c2b5bfec12bae48706965",
     "url": "/img/fav/favicon-16.png"
+  },
+  {
+    "revision": "061f63e8fbf1d2fe82cd8bf4d46f0a0c",
+    "url": "/browserconfig.xml"
   },
   {
     "revision": "7043f055659bb85639518fda2ce562d3",
@@ -396,12 +396,12 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-2-7.jpg"
   },
   {
-    "revision": "1052cd685dcaf7f32685b8837993843f",
-    "url": "/img/projects/events/event-2-8.jpg"
-  },
-  {
     "revision": "8c9e46efaeb15b8ace0cdf05efd80e8d",
     "url": "/img/projects/events/event-2-9.jpg"
+  },
+  {
+    "revision": "1052cd685dcaf7f32685b8837993843f",
+    "url": "/img/projects/events/event-2-8.jpg"
   },
   {
     "revision": "22b0602bdea5861835770f913d5893da",
@@ -496,15 +496,15 @@ self.__precacheManifest = [
     "url": "/img/projects/results/result-1-1.jpg"
   },
   {
-    "revision": "2a5d4aff1edfba03f15f3a57ac0aa395",
-    "url": "/img/projects/results/result-1-2.png"
-  },
-  {
     "revision": "b8d808a40abb8a1191d06989b5aaf9cd",
     "url": "/mstile-150x150.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "2a5d4aff1edfba03f15f3a57ac0aa395",
+    "url": "/img/projects/results/result-1-2.png"
   }
 ];
