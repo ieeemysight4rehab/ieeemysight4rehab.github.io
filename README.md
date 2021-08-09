@@ -1,4 +1,4 @@
-# IEEE MySIGHT4Rehab
+# IEEE MySIGHT4Rehab 
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ieeemysight4rehab.github.io/)
 [![GitHub release](https://img.shields.io/github/release/ieeemysight4rehab/ieeemysight4rehab.github.io.svg)](https://gitHub.com/ieeemysight4rehab/ieeemysight4rehab.github.io/releases/)
