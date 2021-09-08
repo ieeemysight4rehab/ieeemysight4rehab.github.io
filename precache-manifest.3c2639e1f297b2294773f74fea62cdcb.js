@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/js/chunk-459cab69.5d36191e.js"
   },
   {
-    "revision": "3a1a3167984903c87bc4",
+    "revision": "f74fe56e068c80d4a100",
     "url": "/css/chunk-vendors.cee3a1c0.css"
   },
   {
-    "revision": "3a1a3167984903c87bc4",
-    "url": "/js/chunk-vendors.0ada5351.js"
+    "revision": "f74fe56e068c80d4a100",
+    "url": "/js/chunk-vendors.dde74f15.js"
   },
   {
     "revision": "b5852c9afd8cb39a91fe0c500d4eac42",
@@ -228,6 +228,10 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-MediumItalic.13ec0eb5.woff2"
   },
   {
+    "revision": "83e114c316fcc3f23f524ec3e1c65984",
+    "url": "/fonts/Roboto-MediumItalic.83e114c3.woff"
+  },
+  {
     "revision": "b52fac2bb93c5858f3f2675e4b52e1de",
     "url": "/fonts/Roboto-Bold.b52fac2b.woff2"
   },
@@ -260,10 +264,6 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
-    "revision": "83e114c316fcc3f23f524ec3e1c65984",
-    "url": "/fonts/Roboto-MediumItalic.83e114c3.woff"
-  },
-  {
     "revision": "f87832ec216e133d9314fc9c314c9518",
     "url": "/img/chong-pit-nyuk.f87832ec.jpg"
   },
@@ -276,7 +276,7 @@ self.__precacheManifest = [
     "url": "/img/firebase.de340e2a.svg"
   },
   {
-    "revision": "e55b2ee9da8b8f7a4fa79e4e8345edf2",
+    "revision": "02126f344aabfd4629819164bc310e97",
     "url": "/index.html"
   },
   {
@@ -322,10 +322,6 @@ self.__precacheManifest = [
   {
     "revision": "e52d46b63a865d7d5f4f66d9efaf55fa",
     "url": "/img/projects/events/event-11-1.png"
-  },
-  {
-    "revision": "7792e548aaa41230490df53eb2ca0d55",
-    "url": "/img/projects/events/event-11-2.png"
   },
   {
     "revision": "b55a8efbd78d07a7493fad1c4e580ea2",
@@ -506,5 +502,9 @@ self.__precacheManifest = [
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "7792e548aaa41230490df53eb2ca0d55",
+    "url": "/img/projects/events/event-11-2.png"
   }
 ];
