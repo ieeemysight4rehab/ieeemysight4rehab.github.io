@@ -22,11 +22,7 @@ Live Demo: [https://ieeemysight4rehab.github.io/](https://ieeemysight4rehab.gith
 
 ## Deployment
 
-Presently hosted on [GitHub Pages](https://pages.github.com/), previously hosted on [Byet Internet Services](https://byet.host/) and [Netlify](https://www.netlify.com/).
-
-Old Links: <br/>
-Byet Internet Services - https://mysight4rehab.byethost9.com/ <br/>
-Netlify - https://mysight4rehab.netlify.com/ <br/>
+Presently hosted on [GitHub Pages](https://pages.github.com/) and deployed via GitHub Actions.
 
 ## Built With
 
