@@ -10,7 +10,7 @@
     "coverage": "npx nyc report --reporter=text-summary"
   },
   "dependencies": {
-    "axios": "^0.21.3",
+    "axios": "^0.21.4",
     "cwebp-bin": "^5.1.0",
     "lingallery": "^1.3.7",
     "material-design-icons-iconfont": "^3.0.3",
