@@ -192,10 +192,6 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-Light.c73eb1ce.woff"
   },
   {
-    "revision": "e8eaae902c3a4dacb9a5062667e10576",
-    "url": "/fonts/Roboto-LightItalic.e8eaae90.woff2"
-  },
-  {
     "revision": "13efe6cbc10b97144a28310ebdeda594",
     "url": "/fonts/Roboto-LightItalic.13efe6cb.woff"
   },
@@ -262,6 +258,10 @@ self.__precacheManifest = [
   {
     "revision": "cc2fadc3928f2f223418887111947b40",
     "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
+  },
+  {
+    "revision": "e8eaae902c3a4dacb9a5062667e10576",
+    "url": "/fonts/Roboto-LightItalic.e8eaae90.woff2"
   },
   {
     "revision": "f87832ec216e133d9314fc9c314c9518",
@@ -480,10 +480,6 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-7.png"
   },
   {
-    "revision": "3a857a44d95473bb4f6e1414ec31911c",
-    "url": "/img/projects/prototype/prototype-8-1.png"
-  },
-  {
     "revision": "054e6423db82a379fbc82b99657575a5",
     "url": "/img/projects/prototype/prototype-8-2.png"
   },
@@ -506,5 +502,9 @@ self.__precacheManifest = [
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "3a857a44d95473bb4f6e1414ec31911c",
+    "url": "/img/projects/prototype/prototype-8-1.png"
   }
 ];
