@@ -180,10 +180,6 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-ThinItalic.5b4a33e1.woff2"
   },
   {
-    "revision": "8a96edbbcd9a6991d79371aed0b0288e",
-    "url": "/fonts/Roboto-ThinItalic.8a96edbb.woff"
-  },
-  {
     "revision": "d26871e8149b5759f814fd3c7a4f784b",
     "url": "/fonts/Roboto-Light.d26871e8.woff2"
   },
@@ -264,6 +260,10 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
+    "revision": "8a96edbbcd9a6991d79371aed0b0288e",
+    "url": "/fonts/Roboto-ThinItalic.8a96edbb.woff"
+  },
+  {
     "revision": "f87832ec216e133d9314fc9c314c9518",
     "url": "/img/chong-pit-nyuk.f87832ec.jpg"
   },
@@ -340,6 +340,10 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-12-3.jpg"
   },
   {
+    "revision": "5071eb696f0d9df7f553745f0a2006ab",
+    "url": "/img/projects/events/event-12-4.png"
+  },
+  {
     "revision": "8fb82ec1ff62c65cdafe75829bb8d55b",
     "url": "/img/projects/events/event-12-5.jpg"
   },
@@ -350,10 +354,6 @@ self.__precacheManifest = [
   {
     "revision": "a54ce3252fc0e3c0094ca4938a1d56ae",
     "url": "/img/projects/events/event-13-2.jpg"
-  },
-  {
-    "revision": "5071eb696f0d9df7f553745f0a2006ab",
-    "url": "/img/projects/events/event-12-4.png"
   },
   {
     "revision": "00fc45f305c6802bc035947213ddaa96",
@@ -416,10 +416,6 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-5.png"
   },
   {
-    "revision": "b193cea85fdd0767462256ce08b2280b",
-    "url": "/img/projects/events/event-6.png"
-  },
-  {
     "revision": "a05318ab9165aeeb29a79a54adfda2ab",
     "url": "/img/projects/events/event-7.png"
   },
@@ -464,12 +460,12 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-3.png"
   },
   {
-    "revision": "761855bbb2d14769fc3604cd52087756",
-    "url": "/img/projects/prototype/prototype-5.png"
-  },
-  {
     "revision": "3c21dd9872c3c0ce83ded2818e6adab7",
     "url": "/img/projects/prototype/prototype-4.png"
+  },
+  {
+    "revision": "761855bbb2d14769fc3604cd52087756",
+    "url": "/img/projects/prototype/prototype-5.png"
   },
   {
     "revision": "c242628e3015a02320e393591b17aa15",
@@ -488,8 +484,16 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-8-2.png"
   },
   {
+    "revision": "d47963d6cfae17fde39f81bcbe9f8755",
+    "url": "/img/projects/prototype/prototype-9.png"
+  },
+  {
     "revision": "924c976481e1e9f2c173840abc758fe4",
     "url": "/img/projects/results/result-1-1.jpg"
+  },
+  {
+    "revision": "2a5d4aff1edfba03f15f3a57ac0aa395",
+    "url": "/img/projects/results/result-1-2.png"
   },
   {
     "revision": "b8d808a40abb8a1191d06989b5aaf9cd",
@@ -500,11 +504,7 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "2a5d4aff1edfba03f15f3a57ac0aa395",
-    "url": "/img/projects/results/result-1-2.png"
-  },
-  {
-    "revision": "d47963d6cfae17fde39f81bcbe9f8755",
-    "url": "/img/projects/prototype/prototype-9.png"
+    "revision": "b193cea85fdd0767462256ce08b2280b",
+    "url": "/img/projects/events/event-6.png"
   }
 ];
