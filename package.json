@@ -16,7 +16,7 @@
     "material-design-icons-iconfont": "^3.0.3",
     "register-service-worker": "^1.7.2",
     "roboto-fontface": "*",
-    "snyk": "^1.744.0",
+    "snyk": "^1.748.0",
     "vue": "^2.6.13",
     "vue-axios": "^2.1.5",
     "vue-router": "^3.5.3",
