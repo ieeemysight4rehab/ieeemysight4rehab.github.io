@@ -172,16 +172,16 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-Thin.ad538a69.woff2"
   },
   {
-    "revision": "d3b47375afd904983d9be8d6e239a949",
-    "url": "/fonts/Roboto-Thin.d3b47375.woff"
-  },
-  {
     "revision": "5b4a33e176ff736a74f0ca2dd9e6b396",
     "url": "/fonts/Roboto-ThinItalic.5b4a33e1.woff2"
   },
   {
     "revision": "8a96edbbcd9a6991d79371aed0b0288e",
     "url": "/fonts/Roboto-ThinItalic.8a96edbb.woff"
+  },
+  {
+    "revision": "d3b47375afd904983d9be8d6e239a949",
+    "url": "/fonts/Roboto-Thin.d3b47375.woff"
   },
   {
     "revision": "d26871e8149b5759f814fd3c7a4f784b",
