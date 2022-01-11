@@ -180,6 +180,10 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-ThinItalic.5b4a33e1.woff2"
   },
   {
+    "revision": "8a96edbbcd9a6991d79371aed0b0288e",
+    "url": "/fonts/Roboto-ThinItalic.8a96edbb.woff"
+  },
+  {
     "revision": "d26871e8149b5759f814fd3c7a4f784b",
     "url": "/fonts/Roboto-Light.d26871e8.woff2"
   },
@@ -252,16 +256,12 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-Black.313a6563.woff"
   },
   {
-    "revision": "f75569f8a5fab0893fa712d8c0d9c3fe",
-    "url": "/fonts/Roboto-BlackItalic.f75569f8.woff2"
-  },
-  {
     "revision": "cc2fadc3928f2f223418887111947b40",
     "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
-    "revision": "8a96edbbcd9a6991d79371aed0b0288e",
-    "url": "/fonts/Roboto-ThinItalic.8a96edbb.woff"
+    "revision": "f75569f8a5fab0893fa712d8c0d9c3fe",
+    "url": "/fonts/Roboto-BlackItalic.f75569f8.woff2"
   },
   {
     "revision": "f87832ec216e133d9314fc9c314c9518",
@@ -312,20 +312,12 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-1.png"
   },
   {
-    "revision": "7132a797d40f49cf1b84bd3aa4c054df",
-    "url": "/img/projects/events/event-10-1.png"
-  },
-  {
     "revision": "00f0944ba276cf1e7fc095f02f5b84ae",
     "url": "/img/projects/events/event-10-2.png"
   },
   {
     "revision": "e52d46b63a865d7d5f4f66d9efaf55fa",
     "url": "/img/projects/events/event-11-1.png"
-  },
-  {
-    "revision": "7792e548aaa41230490df53eb2ca0d55",
-    "url": "/img/projects/events/event-11-2.png"
   },
   {
     "revision": "b55a8efbd78d07a7493fad1c4e580ea2",
@@ -340,16 +332,16 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-12-3.jpg"
   },
   {
-    "revision": "5071eb696f0d9df7f553745f0a2006ab",
-    "url": "/img/projects/events/event-12-4.png"
+    "revision": "7132a797d40f49cf1b84bd3aa4c054df",
+    "url": "/img/projects/events/event-10-1.png"
   },
   {
     "revision": "8fb82ec1ff62c65cdafe75829bb8d55b",
     "url": "/img/projects/events/event-12-5.jpg"
   },
   {
-    "revision": "910c23fcf0bc596cb5bc82e2ed75af9c",
-    "url": "/img/projects/events/event-13-1.jpg"
+    "revision": "7792e548aaa41230490df53eb2ca0d55",
+    "url": "/img/projects/events/event-11-2.png"
   },
   {
     "revision": "a54ce3252fc0e3c0094ca4938a1d56ae",
@@ -488,10 +480,6 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-8-2.png"
   },
   {
-    "revision": "d47963d6cfae17fde39f81bcbe9f8755",
-    "url": "/img/projects/prototype/prototype-9.png"
-  },
-  {
     "revision": "924c976481e1e9f2c173840abc758fe4",
     "url": "/img/projects/results/result-1-1.jpg"
   },
@@ -506,5 +494,17 @@ self.__precacheManifest = [
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "5071eb696f0d9df7f553745f0a2006ab",
+    "url": "/img/projects/events/event-12-4.png"
+  },
+  {
+    "revision": "910c23fcf0bc596cb5bc82e2ed75af9c",
+    "url": "/img/projects/events/event-13-1.jpg"
+  },
+  {
+    "revision": "d47963d6cfae17fde39f81bcbe9f8755",
+    "url": "/img/projects/prototype/prototype-9.png"
   }
 ];
