@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.310f91afad7a9fde25276804e039ed98.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("/precache-manifest.f29c4c924b96dd5071971aab8b1706e3.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 self.addEventListener('message', (e) => {
     if (!e.data) {
