@@ -384,10 +384,6 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-2-4.jpg"
   },
   {
-    "revision": "f8575cd6d79dda3dd43e5c76965aefbf",
-    "url": "/img/projects/events/event-2-5.jpg"
-  },
-  {
     "revision": "19a84db5bc39acf9b472842fc0dd78da",
     "url": "/img/projects/events/event-2-6.jpg"
   },
@@ -396,8 +392,8 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-2-7.jpg"
   },
   {
-    "revision": "1052cd685dcaf7f32685b8837993843f",
-    "url": "/img/projects/events/event-2-8.jpg"
+    "revision": "f8575cd6d79dda3dd43e5c76965aefbf",
+    "url": "/img/projects/events/event-2-5.jpg"
   },
   {
     "revision": "8c9e46efaeb15b8ace0cdf05efd80e8d",
@@ -412,6 +408,10 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-4.png"
   },
   {
+    "revision": "381a879c8b50492f454a1b2937f9de70",
+    "url": "/img/projects/events/event-5.png"
+  },
+  {
     "revision": "b193cea85fdd0767462256ce08b2280b",
     "url": "/img/projects/events/event-6.png"
   },
@@ -424,16 +424,12 @@ self.__precacheManifest = [
     "url": "/img/projects/events/event-8.png"
   },
   {
-    "revision": "381a879c8b50492f454a1b2937f9de70",
-    "url": "/img/projects/events/event-5.png"
+    "revision": "1052cd685dcaf7f32685b8837993843f",
+    "url": "/img/projects/events/event-2-8.jpg"
   },
   {
     "revision": "5176aec4d8715d6d70259500912733f0",
     "url": "/img/projects/events/event-9-2.png"
-  },
-  {
-    "revision": "b032766a3ac407de31eab0101a939fd4",
-    "url": "/img/projects/events/event-9-3.png"
   },
   {
     "revision": "045a2b1aa97ade9e2134ec869c3592ba",
@@ -442,6 +438,10 @@ self.__precacheManifest = [
   {
     "revision": "b49a3e78996bbb5247ec079f3f20977d",
     "url": "/img/projects/events/event-9-4.png"
+  },
+  {
+    "revision": "b032766a3ac407de31eab0101a939fd4",
+    "url": "/img/projects/events/event-9-3.png"
   },
   {
     "revision": "d3a527417d36ec38c875f224d27b55de",
@@ -476,12 +476,12 @@ self.__precacheManifest = [
     "url": "/img/projects/prototype/prototype-6.png"
   },
   {
-    "revision": "9bca787bcf91ebdcb7976d8de2e62f14",
-    "url": "/img/projects/prototype/prototype-7.png"
-  },
-  {
     "revision": "3a857a44d95473bb4f6e1414ec31911c",
     "url": "/img/projects/prototype/prototype-8-1.png"
+  },
+  {
+    "revision": "9bca787bcf91ebdcb7976d8de2e62f14",
+    "url": "/img/projects/prototype/prototype-7.png"
   },
   {
     "revision": "054e6423db82a379fbc82b99657575a5",
