@@ -224,10 +224,6 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-Medium.1d659482.woff"
   },
   {
-    "revision": "13ec0eb5bdb821ff4930237d7c9f943f",
-    "url": "/fonts/Roboto-MediumItalic.13ec0eb5.woff2"
-  },
-  {
     "revision": "83e114c316fcc3f23f524ec3e1c65984",
     "url": "/fonts/Roboto-MediumItalic.83e114c3.woff"
   },
@@ -238,6 +234,10 @@ self.__precacheManifest = [
   {
     "revision": "50d75e48e0a3ddab1dd15d6bfb9d3700",
     "url": "/fonts/Roboto-Bold.50d75e48.woff"
+  },
+  {
+    "revision": "13ec0eb5bdb821ff4930237d7c9f943f",
+    "url": "/fonts/Roboto-MediumItalic.13ec0eb5.woff2"
   },
   {
     "revision": "94008e69aaf05da75c0bbf8f8bb0db41",
