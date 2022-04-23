@@ -228,12 +228,12 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-MediumItalic.13ec0eb5.woff2"
   },
   {
-    "revision": "83e114c316fcc3f23f524ec3e1c65984",
-    "url": "/fonts/Roboto-MediumItalic.83e114c3.woff"
-  },
-  {
     "revision": "b52fac2bb93c5858f3f2675e4b52e1de",
     "url": "/fonts/Roboto-Bold.b52fac2b.woff2"
+  },
+  {
+    "revision": "83e114c316fcc3f23f524ec3e1c65984",
+    "url": "/fonts/Roboto-MediumItalic.83e114c3.woff"
   },
   {
     "revision": "50d75e48e0a3ddab1dd15d6bfb9d3700",
