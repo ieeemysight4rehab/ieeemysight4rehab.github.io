@@ -148,10 +148,6 @@ self.__precacheManifest = [
     "url": "/img/arduino.5d494ef2.svg"
   },
   {
-    "revision": "e79bfd88537def476913f3ed52f4f4b3",
-    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
-  },
-  {
     "revision": "570eb83859dc23dd0eec423a49e147fe",
     "url": "/fonts/MaterialIcons-Regular.570eb838.woff2"
   },
@@ -162,6 +158,10 @@ self.__precacheManifest = [
   {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
     "url": "/fonts/MaterialIcons-Regular.a37b0c01.ttf"
+  },
+  {
+    "revision": "e79bfd88537def476913f3ed52f4f4b3",
+    "url": "/fonts/MaterialIcons-Regular.e79bfd88.eot"
   },
   {
     "revision": "1e993ad968a574b13519a9572b8f84a5",
