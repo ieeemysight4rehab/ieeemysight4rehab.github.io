@@ -34,7 +34,7 @@
     "babel-plugin-istanbul": "^6.1.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^6.2.2",
-    "vue-cli-plugin-vuetify": "^0.4.6",
+    "vue-cli-plugin-vuetify": "^2.5.1",
     "vue-template-compiler": "^2.6.13"
   },
   "eslintConfig": {
