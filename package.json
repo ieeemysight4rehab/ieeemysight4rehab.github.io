@@ -28,7 +28,7 @@
     "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-e2e-cypress": "^4.5.19",
     "@vue/cli-plugin-eslint": "^4.5.19",
-    "@vue/cli-plugin-pwa": "^3.5.0",
+    "@vue/cli-plugin-pwa": "^5.0.8",
     "@vue/cli-service": "^3.4.0",
     "babel-eslint": "^10.0.1",
     "babel-plugin-istanbul": "^6.1.1",
