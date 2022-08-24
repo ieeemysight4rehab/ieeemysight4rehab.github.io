@@ -17,7 +17,7 @@
     "register-service-worker": "^1.7.2",
     "roboto-fontface": "*",
     "snyk": "^1.987.0",
-    "vue": "^2.7.9",
+    "vue": "^2.7.10",
     "vue-axios": "^3.4.1",
     "vue-router": "^3.5.4",
     "vuetify": "^2.6.9",
@@ -35,7 +35,7 @@
     "eslint": "^6.8.0",
     "eslint-plugin-vue": "^9.3.0",
     "vue-cli-plugin-vuetify": "^2.5.4",
-    "vue-template-compiler": "^2.7.9"
+    "vue-template-compiler": "^2.7.10"
   },
   "eslintConfig": {
     "root": true,
