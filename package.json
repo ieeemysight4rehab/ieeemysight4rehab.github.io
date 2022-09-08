@@ -21,7 +21,7 @@
     "vue-axios": "^3.4.1",
     "vue-router": "^4.1.5",
     "vuetify": "^2.6.9",
-    "vuex": "^3.6.2"
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@cypress/code-coverage": "^3.10.0",
