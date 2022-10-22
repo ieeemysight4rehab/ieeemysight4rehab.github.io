@@ -35,7 +35,7 @@
     "eslint": "^8.25.0",
     "eslint-plugin-vue": "^9.6.0",
     "vue-cli-plugin-vuetify": "^2.5.8",
-    "vue-template-compiler": "^2.7.10"
+    "vue-template-compiler": "^2.7.13"
   },
   "eslintConfig": {
     "root": true,
