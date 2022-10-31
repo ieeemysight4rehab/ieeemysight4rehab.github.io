@@ -18,7 +18,7 @@
     "roboto-fontface": "*",
     "snyk": "^1.1044.0",
     "vue": "^3.2.41",
-    "vue-axios": "^3.5.0",
+    "vue-axios": "^3.5.1",
     "vue-router": "^4.1.6",
     "vuetify": "^2.6.12",
     "vuex": "^4.1.0"
