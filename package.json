@@ -17,7 +17,7 @@
     "register-service-worker": "^1.7.2",
     "roboto-fontface": "*",
     "snyk": "^1.1280.1",
-    "vue": "^3.4.19",
+    "vue": "^3.4.21",
     "vue-axios": "^3.5.2",
     "vue-router": "^4.3.0",
     "vuetify": "^3.5.4",
